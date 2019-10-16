@@ -14,3 +14,5 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Nexmo](https://developer.nexmo.com/spotlight)
 
+- [Linode](https://www.linode.com/docs/contribute/)
+
