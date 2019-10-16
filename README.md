@@ -7,5 +7,5 @@ A list of Developer Community Writer Programs
 
 - [Digital Ocean](https://www.digitalocean.com/write-for-donations/)
 
-- 
+- [Auth0](https://auth0.com/guest-authors)
 
