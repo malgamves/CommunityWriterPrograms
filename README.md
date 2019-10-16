@@ -9,3 +9,5 @@ A list of Developer Community Writer Programs
 
 - [Auth0](https://auth0.com/guest-authors)
 
+- [Nexmo](https://developer.nexmo.com/spotlight)
+
