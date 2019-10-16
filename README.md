@@ -1,5 +1,8 @@
-# CommunityWriterPrograms
-A list of Developer Community Writer Programs
+# Paid Community Writer Programs
+
+Paid writer programs usually have just enough of an incentive for people to get started creating developer content, besides the extra income it is an amazing opportunity for people to build a career out of it. 
+
+A list of companies that have paid Developer Community Writer Programs.
 
 - [GitLab](https://about.gitlab.com/community/writers/)
 
