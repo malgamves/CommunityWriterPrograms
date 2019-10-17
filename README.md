@@ -16,5 +16,15 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Linode](https://www.linode.com/docs/contribute/)
 
+- [Honeybadger](https://www.honeybadger.io/blog/write-for-us/)
+
+- [CircleCI](https://circleci.com/blog/guest-writer-program/) 
+
+- [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) 
+
+- [SitePoint](https://sitepoint.typeform.com/to/DMmYfn) 
+
+- [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) 
+
 - [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253)
 
