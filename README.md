@@ -43,3 +43,14 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Twilio](https://go.twilio.com/twilio-voices/) - Up to $500 per piece
   > Technical tutorials with code. Doesn't necessarily have to use Twilio.
 
+- [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1)
+
+- [Soshace](https://docs.google.com/document/d/1DZ9Hj8AcNfHI6bC4bfTDIFRNIIFnda6Mkj_n_4x3hWw/edit) - $100 per piece
+
+- [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
+
+- [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
+
+- [Log Rocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
+
+- [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece
