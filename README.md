@@ -57,3 +57,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece
   > Technical tutorials and how-to guides. Pick from a list of possible articles.
+
+- [BitSrc](https://blog.bitsrc.io/how-to-write-a-post-for-bits-and-pieces-13de0133151b) - $200 per piece 
+ > Technical tutorials and how-to guides. should on Javscript topic.
