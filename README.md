@@ -24,14 +24,14 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Linode](https://www.linode.com/docs/contribute/) - Up to $300 per piece
   > Technical tutorials with code on Linux or Linode.
 
-- [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - Up to $500 per piece
-  > Technical tutorials with code. Pick from a list of possible articles.
+- [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece
+  > Ruby and Elixir tutorials with code. Pick from a list of possible articles.
 
 - [CircleCI](https://circleci.com/blog/guest-writer-program/)  - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) 
-  > Techn focused articles. No limitation on topics.
+  > Technical focused articles. No limitation on topics.
 
 - [SitePoint](https://sitepoint.typeform.com/to/DMmYfn)
 
@@ -59,4 +59,4 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials and how-to guides. Pick from a list of possible articles.
 
 - [BitSrc](https://blog.bitsrc.io/how-to-write-a-post-for-bits-and-pieces-13de0133151b) - $200 per piece 
- > Technical tutorials and how-to guides. should on Javscript topic.
+  > Technical tutorials and how-to guides. should on Javscript topic.
