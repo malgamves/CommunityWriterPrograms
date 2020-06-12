@@ -61,6 +61,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [BitSrc](https://blog.bitsrc.io/how-to-write-a-post-for-bits-and-pieces-13de0133151b) - $200 per piece 
   > Technical tutorials and how-to guides. should on Javscript topic.
 
+- [CSS Tricks](https://css-tricks.com/guest-posting/) - Around $250 per piece (depends on the length, research and audience)
+  > Technical focused articles. No limitation on topics.
+
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
