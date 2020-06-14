@@ -70,6 +70,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
 
+- [Draft](https://draft.dev/#write) - Pays $200-$400 per piece
+  > Technical content production agency that works with many clients.
+
 - [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - Up to $200 per piece
   > Technical content production agency that works with many clients.
 
