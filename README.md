@@ -64,6 +64,46 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CSS Tricks](https://css-tricks.com/guest-posting/) - Around $250 per piece (depends on the length, research and audience)
   > Technical focused articles. No limitation on topics.
 
+- [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
+  > Content area experts can submit tutorials and blog content.
+
+- [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
+  > Technical content production agency that works with many clients.
+
+- [Draft](https://draft.dev/#write) - Pays $200-$400 per piece
+  > Technical content production agency that works with many clients.
+
+- [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - Up to $200 per piece
+  > Technical content production agency that works with many clients.
+
+- [Make Use Of](https://www.makeuseof.com/jobs/) - $120 per piece with performance benefits
+  > Tutorials and features about consumer apps and software products.
+
+- [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
+  > Technical tutorials and demos using Okta's products.
+
+- [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
+  > Thought leadership and technical articles about PHP.
+
+- [Postmark](https://postmarkapp.com/write-for-us) - $200-$300 per piece
+  > Applications are currently closed.
+
+- [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece
+  > Writing about devops, Kubernetes, and Rancher.
+
+- [Real Python](https://realpython.com/write-for-us/)
+
+- [Software Engineering Daily](https://softwareengineeringdaily.com/write/)
+
+- [TechWell](https://www.techwell.com/techwell-submission-guidelines) - $200 per piece
+  > A wide variety of technical and business content is considered.
+
+- [Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Up to $500 per piece
+  > In-depth tutorials on technical and business topics.
+
+- [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
+  > Wordpress tutorials and articles.
+
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
