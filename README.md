@@ -34,9 +34,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Draft](https://draft.dev/#write) - Pays $200-$400 per piece
   > Technical content production agency that works with many clients.
 
-- [GitLab](https://about.gitlab.com/community/writers/) - Up to $200 per piece
-  > Technical tutorials with code. Pick from a list of possible articles.
-
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
 
