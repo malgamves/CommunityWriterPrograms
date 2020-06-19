@@ -51,6 +51,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Make Use Of](https://www.makeuseof.com/jobs/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
+  
+- [Medium](https://medium.com/creators) - Paid based on article views
+  > Diverse topics including technical tutorials and thought leadership
 
 - [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253) 
 
@@ -87,6 +90,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [TechWell](https://www.techwell.com/techwell-submission-guidelines) - $200 per piece
   > A wide variety of technical and business content is considered.
+
+- [Towards Data Science](https://towardsdatascience.com/contribute/home) - Paid based on article views
+  > Associated with [Medium](https://medium.com/creators), technical tutorials and thought leadership about data science and programming
 
 - [Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Up to $500 per piece
   > In-depth tutorials on technical and business topics.
