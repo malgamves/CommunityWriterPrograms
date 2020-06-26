@@ -33,6 +33,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Draft](https://draft.dev/#write) - Pays $200-$400 per piece
   > Technical content production agency that works with many clients.
+  
+- [DZone](https://dzone.com/writers-zone) - Waiting for details
+  > Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels.  
 
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
@@ -72,7 +75,8 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
-- [SitePoint](https://sitepoint.typeform.com/to/DMmYfn)
+- [SitePoint](https://sitepoint.typeform.com/to/DMmYfn) - $250 per article
+  > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
 
 - [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) 
   > Technical focused articles. No limitation on topics.
@@ -85,6 +89,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1)
   > Technical focused articles. No limitation on topics.
 
+- [Tech Beacon](https://techbeacon.com/write) - $400 per piece
+  > Broad coverage of development, DevOps, QA and security.
+  
 - [TechWell](https://www.techwell.com/techwell-submission-guidelines) - $200 per piece
   > A wide variety of technical and business content is considered.
 
