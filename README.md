@@ -54,9 +54,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253) 
 
-- [Nexmo](https://developer.nexmo.com/spotlight) - Up to $400 per piece
-  > Technical tutorials with code. Pick from a list of possible articles.
-
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
@@ -100,6 +97,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Twilio](https://go.twilio.com/twilio-voices/) - Up to $500 per piece
   > Technical tutorials with code. Doesn't necessarily have to use Twilio.
+  
+- [Vonage](https://developer.nexmo.com/spotlight/) - $500 per piece
+  > Technical tutorials and general pieces on programming
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
