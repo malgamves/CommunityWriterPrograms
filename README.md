@@ -54,6 +54,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253) 
 
+- [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article. 
+  > Technical articles, how-to guides and tutorials on machine learning and data science. 
+
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
