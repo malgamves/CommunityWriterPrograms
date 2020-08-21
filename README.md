@@ -86,6 +86,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1)
   > Technical focused articles. No limitation on topics.
 
+- [TakeShape](https://www.takeshape.io/jobs/contributing-writer/) - Up to $300 per piece
+  > Web dev tutorials with code. General frontend topics including, React, JavaScript, GraphQL, Jamstack. Pick from a list of possible articles or pitch your own.
+
 - [Tech Beacon](https://techbeacon.com/write) - $400 per piece
   > Broad coverage of development, DevOps, QA and security.
   
