@@ -109,6 +109,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
+  
+- [GitLab](https://about.gitlab.com/community/writers/) - Up to $200 per piece
+  > Anything related to better web experiences.
 
 ---
 ## Resources with similar lists
