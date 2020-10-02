@@ -37,7 +37,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
 
-- [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - Up to $200 per piece
+- [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - $100 per piece, $200 for 2x length and ghostwritten articles (Special articles).
   > Technical content production agency that works with many clients.
 
 - [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece
