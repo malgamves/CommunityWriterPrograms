@@ -112,6 +112,9 @@ A list of companies that have paid Developer Community Writer Programs.
   
 - [Vonage](https://developer.nexmo.com/spotlight/) - $500 per piece
   > Technical tutorials and general pieces on programming
+  
+- [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $300 per piece
+  > most topic take a look on Vultr document
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
