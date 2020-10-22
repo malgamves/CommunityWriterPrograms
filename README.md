@@ -118,6 +118,9 @@ A list of companies that have paid Developer Community Writer Programs.
   
 - [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $300 per piece
   > most topic take a look on Vultr document
+ 
+- [Wonder Proxy](https://wonderproxy.com/blog/looking-for-authors/) - $350-$500 per picee
+  > specific on proxy, localization, testing 
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
