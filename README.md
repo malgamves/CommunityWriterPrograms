@@ -121,6 +121,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
+  
+- [FaunaDB](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
+  > Content focused on technical education around serverless development and FaunaDB.
 
 ---
 ## Resources with similar lists
