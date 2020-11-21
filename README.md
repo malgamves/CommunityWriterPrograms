@@ -81,7 +81,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [SitePoint](https://sitepoint.typeform.com/to/DMmYfn) - $250 per article
   > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
 
-- [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) 
+- [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) - $200 to $250 per article
   > Technical focused articles. No limitation on topics.
 
 - [Software Engineering Daily](https://softwareengineeringdaily.com/write/)
