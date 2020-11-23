@@ -35,7 +35,10 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical content production agency that works with many clients.
   
 - [DZone](https://dzone.com/writers-zone) - Waiting for details
-  > Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels.  
+  > Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels.
+  
+- [FaunaDB](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
+  > Content focused on technical education around serverless development and FaunaDB.
 
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
@@ -122,9 +125,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
   
-- [FaunaDB](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
-  > Content focused on technical education around serverless development and FaunaDB.
-
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
