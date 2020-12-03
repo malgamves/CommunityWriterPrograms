@@ -52,6 +52,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Linode](https://www.linode.com/docs/contribute/) - Up to $300 per piece
   > Technical tutorials with code on Linux or Linode.
 
+- [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
+  > Technical tutorials with code. Not limited to LoginRadius products.
+
 - [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
   > Technical tutorials with code. Write about anything frontend.
 
