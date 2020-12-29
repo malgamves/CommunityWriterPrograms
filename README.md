@@ -4,6 +4,9 @@ Paid writer programs usually have just enough of an incentive for people to get 
 
 A list of companies that have paid Developer Community Writer Programs.
 
+- [Arctype](https://docs.google.com/document/d/1kBqDcEIKgSftvO-GeXjeqM7WNfaajSpCHm5AZaSyh-Q/edit?usp=sharing) - $100+ per article
+  > Technical guides, case studies, and thought leadership on SQL and Databases. 
+  
 - [Auth0](https://auth0.com/guest-authors) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
