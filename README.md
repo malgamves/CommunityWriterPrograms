@@ -40,6 +40,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [DZone](https://dzone.com/writers-zone) - Waiting for details
   > Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels.
   
+- [Egghead](https://next.egghead.io/write-for-egghead) - Waiting for details
+  > Intermediate to advanced articles covering topics on web development.
+  
 - [FaunaDB](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
   > Content focused on technical education around serverless development and FaunaDB.
 
