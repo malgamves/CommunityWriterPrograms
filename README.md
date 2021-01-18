@@ -34,8 +34,8 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
-- [Draft](https://draft.dev/#write) - Pays $200-$400 per piece
-  > Technical content production agency that works with many clients.
+- [Draft.dev](https://draft.dev/#write) - Pays $300-$500 per piece
+  > Technical content agency that works with many clients. Writers who are accepted will get an email every 1-2 weeks with topics they can choose from.
   
 - [DZone](https://dzone.com/writers-zone) - Waiting for details
   > Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels.
