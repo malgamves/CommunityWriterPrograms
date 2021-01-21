@@ -133,6 +133,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
+
+- [Dockship](https://dockship.io/articles) - $20
+  > Machine Learning and Data Science.
   
 ---
 ## Resources with similar lists
