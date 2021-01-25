@@ -125,6 +125,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Twilio](https://go.twilio.com/twilio-voices/) - Up to $500 per piece
   > Technical tutorials with code. Doesn't necessarily have to use Twilio.
   
+- [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece
+  > Technical articles/tutorials related to TypingDNA.
+  
 - [Vonage](https://developer.nexmo.com/spotlight/) - $500 per piece
   > Technical tutorials and general pieces on programming
   
