@@ -25,6 +25,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.
   > Technical focused articles.Specific on Flutter.
 
+- [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
+  > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
+
 - [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
   > Content area experts can submit tutorials and blog content.
 
@@ -89,6 +92,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
+
+- [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
+  > Technical focused articles and how-to guides. Pick from a list of possible articles. 
 
 - [Section.io](https://github.com/section-io/engineering-education)
   > Engineering education blog where Computer Science university students may contribute content for pay.
