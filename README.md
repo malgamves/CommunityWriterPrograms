@@ -115,6 +115,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Strapi](https://strapi.io/write-for-the-community) - Up to $200 per piece
   > Articles or tutorials with code covering use-cases, solutions and projects built with Strapi that include Vue, Open Source, JavaScript, GraphQL, Jamstack, React. Pick from a list of possible articles or pitch your own.
+
+- [SuperTokens](https://angel.co/company/supertokens/jobs/771616-head-of-technical-content-and-documentation) - Upto $400 per article
+  > Articles on related topics (session management, authentication), tutorials with code covering use-cases and Product documentation
   
 - [TakeShape](https://www.takeshape.io/jobs/contributing-writer/) - Up to $300 per piece
   > Web dev tutorials with code. General frontend topics including, React, JavaScript, GraphQL, Jamstack. Pick from a list of possible articles or pitch your own.
