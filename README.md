@@ -4,6 +4,9 @@ Paid writer programs usually have just enough of an incentive for people to get 
 
 A list of companies that have paid Developer Community Writer Programs.
 
+- [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article
+  > Technical tutorials on IT ops, cloud and DevOps topics. You can pick from a list of topics or pitch your own. Run by Microsoft MVP and built to help geeks write better and begin blogging.
+
 - [Arctype](https://docs.google.com/document/d/1kBqDcEIKgSftvO-GeXjeqM7WNfaajSpCHm5AZaSyh-Q/edit?usp=sharing) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases. 
   
@@ -22,23 +25,27 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.
   > Technical focused articles.Specific on Flutter.
 
+- [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
+  > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
+
 - [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
   > Content area experts can submit tutorials and blog content.
 
 - [CSS Tricks](https://css-tricks.com/guest-posting/) - Around $250 per piece (depends on the length, research and audience)
   > Technical focused articles. No limitation on topics.
 
-- [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
-  > Technical content production agency that works with many clients.
-
 - [Deepsource](https://deepsource.io/tech-writer/) - Around $150 per piece  
   > Technical Content concerning code quality, code review and static analysis
 
-- [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece
+- [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
+  > Technical content production agency that works with many clients.
+  
+- [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold**
+ 
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
-- [Draft](https://draft.dev/#write) - Pays $200-$400 per piece
-  > Technical content production agency that works with many clients.
+- [Draft.dev](https://draft.dev/#write) - Pays $300-$500 per piece
+  > Technical content agency that works with many clients. Writers who are accepted will get an email every 1-2 weeks with topics they can choose from.
   
 - [DZone](https://dzone.com/writers-zone) - Waiting for details
   > Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels.
@@ -90,6 +97,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
+- [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
+  > Technical focused articles and how-to guides. Pick from a list of possible articles. 
+
 - [Section.io](https://github.com/section-io/engineering-education)
   > Engineering education blog where Computer Science university students may contribute content for pay.
 
@@ -127,6 +137,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Twilio](https://go.twilio.com/twilio-voices/) - Up to $500 per piece
   > Technical tutorials with code. Doesn't necessarily have to use Twilio.
+  
+- [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece
+  > Technical articles/tutorials related to TypingDNA.
   
 - [Vonage](https://developer.nexmo.com/spotlight/) - $500 per piece
   > Technical tutorials and general pieces on programming
