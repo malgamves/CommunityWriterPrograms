@@ -34,10 +34,14 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CSS Tricks](https://css-tricks.com/guest-posting/) - Around $250 per piece (depends on the length, research and audience)
   > Technical focused articles. No limitation on topics.
 
+- [Deepsource](https://deepsource.io/tech-writer/) - Around $150 per piece  
+  > Technical Content concerning code quality, code review and static analysis
+
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
-
+  
 - [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold**
+ 
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
 - [Draft.dev](https://draft.dev/#write) - Pays $300-$500 per piece
