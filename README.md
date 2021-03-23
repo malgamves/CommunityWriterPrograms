@@ -7,7 +7,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article
   > Technical tutorials on IT ops, cloud and DevOps topics. You can pick from a list of topics or pitch your own. Run by Microsoft MVP and built to help geeks write better and begin blogging.
 
-- [Arctype](https://docs.google.com/document/d/1kBqDcEIKgSftvO-GeXjeqM7WNfaajSpCHm5AZaSyh-Q/edit?usp=sharing) - $100+ per article
+- [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases. 
   
 - [Auth0](https://auth0.com/guest-authors) - Up to $300 per piece
@@ -16,7 +16,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CircleCI](https://circleci.com/blog/guest-writer-program/)  - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
-- [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece
+- Clubhouse.io - Currently returns Error 404 (Not found)
   > Technical tutorials and how-to guides. Pick from a list of possible articles.
 
 - [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
