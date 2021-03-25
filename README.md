@@ -103,7 +103,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
   > Technical focused articles and how-to guides. Pick from a list of possible articles. 
 
-- [Section.io](https://github.com/section-io/engineering-education)
+- [Section.io](https://github.com/section-io/engineering-education) - $50 to $150 per article
   > Engineering education blog where Computer Science university students may contribute content for pay.
 
 - [SitePoint](https://sitepoint.typeform.com/to/DMmYfn) - $250 per article
