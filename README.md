@@ -69,6 +69,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253) 
 
+- [Nanonet](https://nanonets.com/blog/write-for-us/) 
+  > Get paid to write about your favourite machine learning topics!
+
 - [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article. 
   > Technical articles, how-to guides and tutorials on machine learning and data science. 
 
@@ -83,6 +86,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece
   > Writing about devops, Kubernetes, and Rancher.
+ 
+- [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
+  > Get paid to write articles about machine learning, data science, and more.
 
 - [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
@@ -135,7 +141,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Wordpress tutorials and articles.
 
 - [Dockship](https://dockship.io/articles) - $20
-  > Machine Learning and Data Science.
+  > Machine Learning and Data Science/ You need to be signed in to be able to create content.
   
 ---
 ## Resources with similar lists
