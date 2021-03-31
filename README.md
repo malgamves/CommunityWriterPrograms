@@ -50,6 +50,9 @@ A list of companies that have paid Developer Community Writer Programs.
  
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
+- [Dockship](https://dockship.io/articles) - $20
+  > Machine Learning and Data Science. You need to be signed in to be able to create content.
+
 - [Draft.dev](https://draft.dev/#write) - Pays $300-$500 per piece
   > Technical content agency that works with many clients. Writers who are accepted will get an email every 1-2 weeks with topics they can choose from.
 
@@ -88,11 +91,17 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253)
 
-- [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article.
-  > Technical articles, how-to guides and tutorials on machine learning and data science.
+- [Nanonet](https://nanonets.com/blog/write-for-us/) 
+  > Get paid to write about your favourite machine learning topics!
+
+- [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article. 
+  > Technical articles, how-to guides and tutorials on machine learning and data science. 
 
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
+
+- [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
+  > Get paid to write articles about machine learning, data science, and more.
 
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
   > Thought leadership and technical articles about PHP.
@@ -158,7 +167,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
-
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
