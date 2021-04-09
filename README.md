@@ -167,6 +167,16 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
+
+- [Tutorials Teacher](https://www.tutorialsteacher.com/aboutus/write-for-us) 
+  > You may write an article or a blog post on any topic where you have in-depth knowledge. Mainly on -> JavaScript and its frameworks. APP and Database Development, blogging and SEO. 
+
+- [Cipher Trick](https://ciphertrick.com/write-for-us/) 
+  > You can write on HTML, CSS, Node.js, React, Angular, Firebase etc or Blockchain or Open-source or AI or ML or Algorithms etc. They cover a wide range of topics.  
+
+- [CSS and JS Toolbox](https://css-javascript-toolbox.com/write-for-us/)
+  > You can write on HTML, CSS, WordPress and PHP. 
+
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
