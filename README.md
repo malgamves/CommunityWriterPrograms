@@ -7,6 +7,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article
   > Technical tutorials on IT ops, cloud and DevOps topics. You can pick from a list of topics or pitch your own. Run by Microsoft MVP and built to help geeks write better and begin blogging.
 
+- [Adeva](https://adevait.com/write-for-us) - $200+ per article
+  > Technical guides, thought leadership content and resources for Engineering Managers.
+
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
   > Technical content and tutorials for the Agora community.
 
