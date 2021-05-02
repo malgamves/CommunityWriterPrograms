@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Adam the Automator",
+    "link": "https://adamtheautomator.com/friends",
+    "rate": "$100+ per article",
+    "description": "Technical tutorials on IT ops, cloud and DevOps topics. You can pick from a list of topics or pitch your own. Run by Microsoft MVP and built to help geeks write better and begin blogging."
+  },
+  {
+    "name": "Adeva",
+    "link": "https://adevait.com/write-for-us",
+    "rate": "$200+ per article",
+    "description": "Technical guides, thought leadership content and resources for Engineering Managers."
+  },
+  {
+    "name": "Agora",
+    "link": "https://www.agora.io/en/agora-content-contributor-program/",
+    "rate": "$250 per article",
+    "description": "Technical content and tutorials for the Agora community."
+  },
+  {
+    "name": "Arctype",
+    "link": "https://docs.google.com/document/d/1kBqDcEIKgSftvO-GeXjeqM7WNfaajSpCHm5AZaSyh-Q/edit?usp=sharing",
+    "rate": "$100+ per article",
+    "description": "Technical guides, case studies, and thought leadership on SQL and Databases."
+  },
+  {
+    "name": "Auth0",
+    "link": "https://auth0.com/guest-authors",
+    "rate": "Up to $300 per piece",
+    "description": "Technical tutorials with code. Pick from a list of possible articles."
+  },
+  {
+    "name": "CircleCI",
+    "link": "https://circleci.com/blog/guest-writer-program/",
+    "rate": "Up to $300 per piece",
+    "description": "Technical tutorials with code. Pick from a list of possible articles."
+  },
+  {
+    "name": "Clubhouse.io",
+    "link": "https://clubhouse.io/clubhouse-write-earn-give-program/",
+    "rate": "Up to $600 per piece",
+    "description": "Technical tutorials and how-to guides. Pick from a list of possible articles."
+  },
+  {
+    "name": "Code Tuts+",
+    "link": "https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034",
+    "rate": "$100 (Quick tip) $250 (Tutorial)",
+    "description": "Technical focused articles. Pick from a list of possible articles."
+  },
+  {
+    "name": "Code Magic",
+    "link": "https://blog.codemagic.io/write-for-codemagic-ci-cd/",
+    "rate": "Applications are currently closed.",
+    "description": "Technical focused articles. Specific on Flutter."
+  },
+  {
+    "name": "ContentLab.io",
+    "link": "https://contentlab.io/write-for-contentlab/",
+    "rate": "Up to $500 per piece",
+    "description": "Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces."
+  },
+  {
+    "name": "Couchbase",
+    "link": "https://www.couchbase.com/community/community-writers-program",
+    "rate": "$200 per piece",
+    "description": "Content area experts can submit tutorials and blog content."
+  },
+  {
+    "name": "CSS Tricks",
+    "link": "https://css-tricks.com/guest-posting/",
+    "rate": "Around $250 per piece (depends on the length, research and audience)",
+    "description": "Technical focused articles. No limitation on topics."
+  },
+  {
+    "name": "Cube Dev",
+    "link": "https://www.notion.so/Cube-js-Guest-Authors-8ddd5046be9048d9869410b60d4a2b98",
+    "rate": "Up to $300 per piece",
+    "description": "Technical tutorials and blog posts with code on [Cube.js](https://cube.dev), building analytical apps, data visualization, and data engineering. Pick from a list of possible articles or suggest your own."
+  },
+  {
+    "name": "Deepsource",
+    "link": "https://deepsource.io/tech-writer/",
+    "rate": "Around $150 per piece",
+    "description": "Technical Content concerning code quality, code review and static analysis"
+  },
+  {
+    "name": "Dev Spotlight",
+    "link": "https://www.devspotlight.com/jobs/",
+    "rate": "Around $300-$500 per piece depending on length and content",
+    "description": "Technical content production agency that works with many clients."
+  },
+  {
+    "name": "Digital Ocean",
+    "link": "https://www.digitalocean.com/write-for-donations/",
+    "rate": "Up to $400 per piece **Applications currently on hold**",
+    "description": "Technical tutorials with code. Not limited to Digital Ocean products."
+  },
+  {
+    "name": "Dockship",
+    "link": "https://dockship.io/articles",
+    "rate": "$20",
+    "description": "Machine Learning and Data Science. You need to be signed in to be able to create content."
+  },
+  {
+    "name": "Draft.dev",
+    "link": "https://draft.dev/#write",
+    "rate": "Pays $300-$500 per piece",
+    "description": "Technical content agency that works with many clients. Writers who are accepted will get an email every 1-2 weeks with topics they can choose from."
+  },
+  {
+    "name": "DZone",
+    "link": "https://dzone.com/writers-zone",
+    "rate": "Waiting for details",
+    "description": "Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels."
+  },
+  {
+    "name": "Egghead",
+    "link": "https://next.egghead.io/write-for-egghead",
+    "rate": "Waiting for details",
+    "description": "Intermediate to advanced articles covering topics on web development."
+  },
+  {
+    "name": "FaunaDB",
+    "link": "https://fauna.com/blog/write-with-fauna",
+    "rate": "$200-$500 per piece",
+    "description": "Content focused on technical education around serverless development and FaunaDB."
+  },
+  {
+    "name": "Hasura",
+    "link": "https://blog.hasura.io/the-hasura-technical-writer-program/",
+    "rate": "Up to $300 per piece",
+    "description": "Technical tutorials with code about Hasura or GraphQL."
+  },
+  {
+    "name": "Hit Subscribe",
+    "link": "https://www.hitsubscribe.com/apply-to-be-an-author/",
+    "rate": "$100 per piece, $200 for 2x length and ghostwritten articles (Special articles).",
+    "description": "Technical content production agency that works with many clients."
+  },
+  {
+    "name": "Honeybadger",
+    "link": "https://www.honeybadger.io/blog/write-for-us/",
+    "rate": "From $500 per piece",
+    "description": "Ruby and Elixir tutorials with code. Pick from a list of possible articles."
+  },
+  {
+    "name": "ImageKit",
+    "link": "https://form.asana.com/?hash=4a457043221411a8d81971bc930a6a932add03c8eaeec167cf1fee81db871953&id=1166170812623393",
+    "rate": "$300 per piece",
+    "description": " Content focused on technical guide on ImageKit and Image Optimization."
+  },
+  {
+    "name": "Linode",
+    "link": "https://www.linode.com/docs/contribute/",
+    "rate": "Up to $300 per piece",
+    "description": "Technical tutorials with code on Linux or Linode."
+  },
+  {
+    "name": "LoginRadius",
+    "link": "https://www.loginradius.com/blog/async/page/guest-blog",
+    "rate": "Up to $200 per piece",
+    "description": "Technical tutorials with code. Not limited to LoginRadius products."
+  },
+  {
+    "name": "LogRocket",
+    "link": "https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/",
+    "rate": "Up to $350 per piece",
+    "description": "Technical tutorials with code. Write about anything frontend."
+  },
+  {
+    "name": "Make Use Of",
+    "link": "https://www.makeuseof.com/contributor/",
+    "rate": "$120 per piece with performance benefits",
+    "description": "Tutorials and features about consumer apps and software products."
+  },
+  {
+    "name": "Mixster",
+    "link": "https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253",
+    "rate": "N/A",
+    "description": "Waiting for details"
+  },
+  {
+    "name": "Nanonet",
+    "link": "https://nanonets.com/blog/write-for-us/",
+    "rate": "N/A",
+    "description": "Get paid to write about your favourite machine learning topics!"
+  },
+  {
+    "name": "Neptune",
+    "link": "https://neptune.ai/write-for-us",
+    "rate": "Up to $500 per article. ",
+    "description": "Technical articles, how-to guides and tutorials on machine learning and data science. "
+  },
+  {
+    "name": "Okta",
+    "link": "https://developer.okta.com/blog",
+    "rate": "Paid through Toptal based on your hourly rate",
+    "description": "Technical tutorials and demos using Okta's products."
+  },
+  {
+    "name": "Paperspace",
+    "link": "https://blog.paperspace.com/write-for-paperspace/",
+    "rate": "$200-$300 per piece",
+    "description": "Get paid to write articles about machine learning, data science, and more."
+  },
+  {
+    "name": "PHP Architect",
+    "link": "https://www.phparch.com/editorial/write-for-us/",
+    "rate": "$175 per piece",
+    "description": "Thought leadership and technical articles about PHP."
+  },
+  {
+    "name": "Postmark",
+    "link": "https://postmarkapp.com/write-for-us",
+    "rate": "$200-$300 per piece",
+    "description": "Applications are currently closed."
+  },
+  {
+    "name": "Rancher",
+    "link": "https://rancher.com/writing-program/roles/writer/",
+    "rate": "$300 per piece",
+    "description": "Writing about devops, Kubernetes, and Rancher."
+  },
+  {
+    "name": "Real Python",
+    "link": "https://realpython.com/write-for-us/",
+    "rate": "Up to $300 per piece",
+    "description": "Technical tutorials with code. Pick from a list of possible articles."
+  },
+  {
+    "name": "Sanity.io",
+    "link": "https://www.sanity.io/guest-authorship",
+    "rate": "Up to $250 per piece",
+    "description": "Technical focused articles and how-to guides. Pick from a list of possible articles. "
+  },
+  {
+    "name": "Section.io",
+    "link": "https://github.com/section-io/engineering-education",
+    "rate": "$50 to $150 per article",
+    "description": "Engineering education blog where Computer Science university students may contribute content for pay."
+  },
+  {
+    "name": "SitePoint",
+    "link": "https://sitepoint.typeform.com/to/DMmYfn",
+    "rate": "$250 per article",
+    "description": "Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic."
+  },
+  {
+    "name": "Smashing Magazine",
+    "link": "https://www.smashingmagazine.com/write-for-us/",
+    "rate": "$200 to $250 per article",
+    "description": "Technical focused articles. No limitation on topics."
+  },
+  {
+    "name": "Software Engineering Daily",
+    "link": "https://softwareengineeringdaily.com/write/",
+    "rate": "N/A",
+    "description": "Waiting for details"
+  },
+  {
+    "name": "Soshace",
+    "link": "https://docs.google.com/document/d/1DZ9Hj8AcNfHI6bC4bfTDIFRNIIFnda6Mkj_n_4x3hWw/edit",
+    "rate": "$100 per piece",
+    "description": "Technical tutorials with code. Pick from a list of possible articles."
+  },
+  {
+    "name": "StackOverflow",
+    "link": "https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1",
+    "rate": "",
+    "description": "Technical focused articles. No limitation on topics."
+  },
+  {
+    "name": "Strapi",
+    "link": "https://strapi.io/write-for-the-community",
+    "rate": "Up to $200 per piece",
+    "description": "Articles or tutorials with code covering use-cases, solutions and projects built with Strapi that include Vue, Open Source, JavaScript, GraphQL, Jamstack, React. Pick from a list of possible articles or pitch your own."
+  },
+  {
+    "name": "TakeShape",
+    "link": "https://www.takeshape.io/jobs/contributing-writer/",
+    "rate": "Up to $300 per piece",
+    "description": "Web dev tutorials with code. General frontend topics including, React, JavaScript, GraphQL, Jamstack. Pick from a list of possible articles or pitch your own."
+  },
+  {
+    "name": "Tech Beacon",
+    "link": "https://techbeacon.com/write",
+    "rate": "$400 per piece",
+    "description": "Broad coverage of development, DevOps, QA and security."
+  },
+  {
+    "name": "TechWell",
+    "link": "https://www.techwell.com/techwell-submission-guidelines",
+    "rate": "$200 per piece",
+    "description": "A wide variety of technical and business content is considered."
+  },
+  {
+    "name": "TestDriven.io",
+    "link": "https://testdriven.io/blog/",
+    "rate": "$300-$500 per guest post",
+    "description": "Web development tutorials designed to teach critical skills needed to test, launch, scale, and optimize applications."
+  },
+  {
+    "name": "Tutorialspoint",
+    "link": "https://www.tutorialspoint.com/about/tutorials_writing.htm",
+    "rate": "Up to $500 per piece",
+    "description": "In-depth tutorials on technical and business topics."
+  },
+  {
+    "name": "Twilio",
+    "link": "https://go.twilio.com/twilio-voices/",
+    "rate": "Up to $500 per piece",
+    "description": "Technical tutorials with code. Doesn't necessarily have to use Twilio."
+  },
+  {
+    "name": "TypingDNA",
+    "link": "https://www.typingdna.com/guest-author-program",
+    "rate": "Up to $500 per piece",
+    "description": "Technical articles/tutorials related to TypingDNA."
+  },
+  {
+    "name": "Vonage",
+    "link": "https://developer.nexmo.com/spotlight/",
+    "rate": "$500 per piece",
+    "description": "Technical tutorials and general pieces on programming"
+  },
+  {
+    "name": "Vultr",
+    "link": "https://www.vultr.com/docs/vultr-docs-program-guidelines",
+    "rate": "Up to $300 per piece",
+    "description": "most topic take a look on Vultr document"
+  },
+  {
+    "name": "WPHUB",
+    "link": "https://www.wphub.com/write-for-us",
+    "rate": "$200 per piece",
+    "description": "Wordpress tutorials and articles"
+  }
+]
