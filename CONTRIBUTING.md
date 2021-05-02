@@ -20,7 +20,7 @@ Please note we have a code of conduct. Follow it in all your interactions with t
 The easiest way to add a Writer Program is by using the `add_writer.py` script. Running this will prompt you for the needed information, and automatically insert the program into the `writer-programs.json` file. To execute it run the following in your terminal:
 
 ```bash
-python3 add_writer.py
+python3 add_writer_program.py
 ```
 
 ### Manual
