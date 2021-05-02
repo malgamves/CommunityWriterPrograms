@@ -1,9 +1,6 @@
 from string import Template
 import json
 
-# This will contain any data needed for template substitution
-substituteData = {}
-
 # Load all the writer programs into a variable
 with open('writer-programs.json', 'r') as f:
   writerProgramsJSON = sorted(json.load(f), key=lambda program: program['name'].lower())
