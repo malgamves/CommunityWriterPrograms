@@ -19,17 +19,17 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Auth0](https://auth0.com/guest-authors) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
-- [CircleCI](https://circleci.com/blog/guest-writer-program/)  - Up to $300 per piece
+- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece
   > Technical tutorials and how-to guides. Pick from a list of possible articles.
 
-- [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
-  > Technical focused articles. Pick from a list of possible articles.
-
 - [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.
   > Technical focused articles. Specific on Flutter.
+
+- [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
+  > Technical focused articles. Pick from a list of possible articles.
 
 - [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
@@ -40,17 +40,16 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CSS Tricks](https://css-tricks.com/guest-posting/) - Around $250 per piece (depends on the length, research and audience)
   > Technical focused articles. No limitation on topics.
 
-- [Cube Dev](https://www.notion.so/Cube-js-Guest-Authors-8ddd5046be9048d9869410b60d4a2b98) — Up to $300 per piece
-  > Technical tutotials and blog posts with code on [Cube.js](https://cube.dev), building analytical apps, data visualization, and data engineering. Pick from a list of possible articles or suggest your own.
-  
-- [Deepsource](https://deepsource.io/tech-writer/) - Around $150 per piece  
+- [Cube Dev](https://www.notion.so/Cube-js-Guest-Authors-8ddd5046be9048d9869410b60d4a2b98) - Up to $300 per piece
+  > Technical tutorials and blog posts with code on [Cube.js](https://cube.dev), building analytical apps, data visualization, and data engineering. Pick from a list of possible articles or suggest your own.
+
+- [Deepsource](https://deepsource.io/tech-writer/) - Around $150 per piece
   > Technical Content concerning code quality, code review and static analysis
 
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
-  
+
 - [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold**
- 
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
 - [Dockship](https://dockship.io/articles) - $20
@@ -92,9 +91,10 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
 
-- [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253)
+- [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253) - N/A
+  > Waiting for details
 
-- [Nanonet](https://nanonets.com/blog/write-for-us/) 
+- [Nanonet](https://nanonets.com/blog/write-for-us/) - N/A
   > Get paid to write about your favourite machine learning topics!
 
 - [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article. 
@@ -130,12 +130,13 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) - $200 to $250 per article
   > Technical focused articles. No limitation on topics.
 
-- [Software Engineering Daily](https://softwareengineeringdaily.com/write/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/write/) - N/A
+  > Waiting for details
 
 - [Soshace](https://docs.google.com/document/d/1DZ9Hj8AcNfHI6bC4bfTDIFRNIIFnda6Mkj_n_4x3hWw/edit) - $100 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
-- [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1)
+- [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1) - 
   > Technical focused articles. No limitation on topics.
 
 - [Strapi](https://strapi.io/write-for-the-community) - Up to $200 per piece
@@ -168,8 +169,10 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $300 per piece
   > most topic take a look on Vultr document
 
-- [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
-  > Wordpress tutorials and articles.
+- [WPHUB](https://www.wphub.com/write-for-us) - $200 per piece
+  > Wordpress tutorials and articles
+
+
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)

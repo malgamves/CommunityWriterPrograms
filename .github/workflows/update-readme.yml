@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  push:
+    paths:
+      - 'writer-programs.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: Generate README file
+        run: |
+          python3 update_readme.py
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          if [[ "$(git status)" != *"nothing to commit"* ]]
+          then
+            git add .
+            git commit -m 'Updated README'
+          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
