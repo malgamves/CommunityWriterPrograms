@@ -10,9 +10,31 @@ Please note we have a code of conduct. Follow it in all your interactions with t
 
 ## Pull Request Process
 
-1. Update the README.md with any community writing programs you want to add or update.
-2. Make sure the list of programs is still in alphabetical order.
-3. Create the pull request and explain your changes. We'll merge it in or reply as quickly as possible.
+1. Add any Writer Program you want by following either the automatic or manual process described below
+2. Create the pull request and explain your changes. We'll merge it in or reply as quickly as possible.
+
+> Once you've pushed your change to GitHub, a GitHub Action is configured to automatically update the README.md based on `writer-programs.json`
+
+### Automatic
+
+The easiest way to add a Writer Program is by using the `add_writer.py` script. Running this will prompt you for the needed information, and automatically insert the program into the `writer-programs.json` file. To execute it run the following in your terminal:
+
+```bash
+python3 add_writer.py
+```
+
+### Manual
+
+If you prefer to manually add the program, you can do so by adding it to the `writer-programs.json` file directy. Insert a JSON object in the array, following this structure:
+
+```
+{
+  "name": "",
+  "link": "",
+  "rate": "",
+  "description": ""
+}
+```
 
 # Code of Conduct
 
