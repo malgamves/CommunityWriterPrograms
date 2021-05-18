@@ -28,7 +28,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)(x)
   > Technical focused articles. Pick from a list of possible articles.
 
-- [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.
+- [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.(x)
   > Technical focused articles. Specific on Flutter.
 
 - [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
