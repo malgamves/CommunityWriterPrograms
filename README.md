@@ -25,7 +25,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece(x)
   > Technical tutorials and how-to guides. Pick from a list of possible articles.
 
-- [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
+- [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)(x)
   > Technical focused articles. Pick from a list of possible articles.
 
 - [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.
