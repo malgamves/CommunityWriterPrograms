@@ -150,7 +150,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [TechWell](https://www.techwell.com/techwell-submission-guidelines) - $200 per piece
   > A wide variety of technical and business content is considered.
 
-- [TestDriven.io](https://testdriven.io/blog/) - $300-$500 per guest post
+- [TestDriven.io](https://testdriven.io/blog/) - $300-$500 per guest post ( x )
   > Web development tutorials designed to teach critical skills needed to test, launch, scale, and optimize applications.
 
 - [Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Up to $500 per piece
