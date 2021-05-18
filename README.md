@@ -4,7 +4,7 @@ Paid writer programs usually have just enough of an incentive for people to get 
 
 A list of companies that have paid Developer Community Writer Programs.
 
-- [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article
+- [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article (x)
   > Technical tutorials on IT ops, cloud and DevOps topics. You can pick from a list of topics or pitch your own. Run by Microsoft MVP and built to help geeks write better and begin blogging.
 
 - [Adeva](https://adevait.com/write-for-us) - $200+ per article
