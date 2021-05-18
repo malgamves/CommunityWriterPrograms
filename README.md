@@ -31,7 +31,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.(x)
   > Technical focused articles. Specific on Flutter.
 
-- [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
+- [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece(x)
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
 
 - [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
