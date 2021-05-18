@@ -22,7 +22,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CircleCI](https://circleci.com/blog/guest-writer-program/)  - Up to $300 per piece(x)
   > Technical tutorials with code. Pick from a list of possible articles.
 
-- [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece
+- [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece(x)
   > Technical tutorials and how-to guides. Pick from a list of possible articles.
 
 - [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
