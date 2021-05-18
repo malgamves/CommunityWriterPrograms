@@ -10,7 +10,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Adeva](https://adevait.com/write-for-us) - $200+ per article (x)
   > Technical guides, thought leadership content and resources for Engineering Managers.
 
-- [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
+- [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article (x)
   > Technical content and tutorials for the Agora community.
 
 - [Arctype](https://docs.google.com/document/d/1kBqDcEIKgSftvO-GeXjeqM7WNfaajSpCHm5AZaSyh-Q/edit?usp=sharing) - $100+ per article
