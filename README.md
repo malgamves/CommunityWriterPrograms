@@ -34,7 +34,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece(x)
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
 
-- [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
+- [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece(x)
   > Content area experts can submit tutorials and blog content.
 
 - [CSS Tricks](https://css-tricks.com/guest-posting/) - Around $250 per piece (depends on the length, research and audience)
