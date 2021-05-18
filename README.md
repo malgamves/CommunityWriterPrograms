@@ -43,7 +43,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Cube Dev](https://www.notion.so/Cube-js-Guest-Authors-8ddd5046be9048d9869410b60d4a2b98) — Up to $300 per piece
   > Technical tutotials and blog posts with code on [Cube.js](https://cube.dev), building analytical apps, data visualization, and data engineering. Pick from a list of possible articles or suggest your own.
   
-- [Deepsource](https://deepsource.io/tech-writer/) - Around $150 per piece  
+- [Deepsource](https://deepsource.io/tech-writer/) - Around $150 per piece (x) 
   > Technical Content concerning code quality, code review and static analysis
 
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
