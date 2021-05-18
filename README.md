@@ -49,7 +49,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
   
-- [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold**
+- [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold**(x)
  
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
