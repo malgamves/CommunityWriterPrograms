@@ -153,7 +153,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece
   > Writing about devops, Kubernetes, and Rancher.
 
-- [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
+- [Real Python](https://realpython.com/write-for-us/) - Applications are currently (as of Aug/21) closed. 
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
