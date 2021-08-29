@@ -153,7 +153,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [TechWell](https://www.techwell.com/techwell-submission-guidelines) - $200 per piece
   > A wide variety of technical and business content is considered.
 
-- [Topcoder](https://www.topcoder.com/thrive/articles/Submitting%20a%20Thrive%20Article) - $50 per piece
+- [Topcoder](https://www.topcoder.com/thrive/articles/Submitting%20a%20Thrive%20Article) - $75 per piece
   > Tutorials, workshops and articles are accepted. Get paid to write about Competitive Programming, Data Science, Design, Development, QA and/or Gig Work.
 
 - [TestDriven.io](https://testdriven.io/blog/) - $300-$500 per guest post
