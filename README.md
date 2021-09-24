@@ -71,7 +71,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Egghead](https://next.egghead.io/write-for-egghead) - Waiting for details
   > Intermediate to advanced articles covering topics on web development.
 
-- [FaunaDB](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
+- [Fauna](https://fauna.com/blog/write-with-fauna) - Up to $350 per piece **Applications currently on hold**
   > Content focused on technical education around serverless development and FaunaDB.
 
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
