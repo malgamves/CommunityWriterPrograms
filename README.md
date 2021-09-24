@@ -62,6 +62,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Dockship](https://dockship.io/articles) - $20
   > Machine Learning and Data Science. You need to be signed in to be able to create content.
 
+- [Doppler](https://www.doppler.com/tech-writer-program) - $500 per article
+  > Seeking deep-dive technical tutorials focussed on application security, secrets management, and developer tools.
+
 - [Draft.dev](https://draft.dev/#write) - Pays $300-$500 per piece
   > Technical content agency that works with many clients. Writers who are accepted will get an email every 1-2 weeks with topics they can choose from.
 
