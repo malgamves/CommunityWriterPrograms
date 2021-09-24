@@ -19,12 +19,15 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Arctype](https://docs.google.com/document/d/1kBqDcEIKgSftvO-GeXjeqM7WNfaajSpCHm5AZaSyh-Q/edit?usp=sharing) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
 
+- [Appsmith](https://blog.appsmith.com/launching-the-appsmith-writers-program) - $200-$400 per piece
+  > Internal tools, low code, open-source, databases, application performance, engineering best practices, JavaScript, and Appsmith.
+
 - [Auth0](https://auth0.com/guest-authors) - Up to $450 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [Bejamas](https://bejamas.io/paid-writing-program/) - Waiting for details
   > Jamstack, serverless and modern web development. Pitch a topic or pick from a list of possible articles
-  
+
 - [CircleCI](https://circleci.com/blog/guest-writer-program/)  - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
@@ -48,15 +51,15 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Cube Dev](https://www.notion.so/Cube-js-Guest-Authors-8ddd5046be9048d9869410b60d4a2b98) — Up to $300 per piece
   > Technical tutotials and blog posts with code on [Cube.js](https://cube.dev), building analytical apps, data visualization, and data engineering. Pick from a list of possible articles or suggest your own.
-  
+
 - [Deepsource](https://deepsource.io/tech-writer/) - Around $150 per piece  
   > Technical Content concerning code quality, code review and static analysis
 
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
-  
+
 - [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold**
- 
+
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
 - [Dockship](https://dockship.io/articles) - $20
@@ -100,11 +103,11 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253)
 
-- [Nanonet](https://nanonets.com/blog/write-for-us/) 
+- [Nanonet](https://nanonets.com/blog/write-for-us/)
   > Get paid to write about your favourite machine learning topics!
 
-- [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article. 
-  > Technical articles, how-to guides and tutorials on machine learning and data science. 
+- [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article.
+  > Technical articles, how-to guides and tutorials on machine learning and data science.
 
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
@@ -125,7 +128,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
-  > Technical focused articles and how-to guides. Pick from a list of possible articles. 
+  > Technical focused articles and how-to guides. Pick from a list of possible articles.
 
 - [Section.io](https://github.com/section-io/engineering-education) - $50 to $150 per article
   > Engineering education blog where Computer Science university students may contribute content for pay.
