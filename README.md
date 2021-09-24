@@ -65,6 +65,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Dockship](https://dockship.io/articles) - $20
   > Machine Learning and Data Science. You need to be signed in to be able to create content.
 
+- [Doppler](https://www.doppler.com/tech-writer-program) - $500 per article
+  > Seeking deep-dive technical tutorials focussed on application security, secrets management, and developer tools.
+
 - [Draft.dev](https://draft.dev/#write) - Pays $300-$500 per piece
   > Technical content agency that works with many clients. Writers who are accepted will get an email every 1-2 weeks with topics they can choose from.
 
@@ -74,8 +77,11 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Egghead](https://next.egghead.io/write-for-egghead) - Waiting for details
   > Intermediate to advanced articles covering topics on web development.
 
-- [FaunaDB](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
+- [Fauna](https://fauna.com/blog/write-with-fauna) - Up to $350 per piece **Applications currently on hold**
   > Content focused on technical education around serverless development and FaunaDB.
+
+- [GraphCMS](https://graphcms.com/write-for-graphcms) - Up to $300 per piece
+  > Technical tutorials or blogs with code about GraphCMS or GraphQL with Jamstack or tooling of your choice.
 
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
@@ -177,7 +183,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Vonage](https://developer.nexmo.com/spotlight/) - $500 per piece
   > Technical tutorials and general pieces on programming
 
-- [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $300 per piece
+- [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $600 per piece
   > most topic take a look on Vultr document
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
