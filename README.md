@@ -104,6 +104,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
   > Technical tutorials with code. Write about anything frontend.
 
+- [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
+  > Technical tutorials on how to use Magic
+
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
 
