@@ -105,6 +105,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials with code. Write about anything frontend.
 
 - [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
+  [Link to Magic Website](https://magic.link/)
   > Technical tutorials on how to use Magic
 
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
