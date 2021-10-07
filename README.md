@@ -97,6 +97,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Linode](https://www.linode.com/docs/contribute/) - Up to $300 per piece
   > Technical tutorials with code on Linux or Linode.
+  
+- [Logical Clocks](https://www.logicalclocks.com/job-positions/guest-blogger) - Pay-per-tutorial setting, GPU credits
+  > Technical tutorials with code on Data Engineering, Machine Learning, and ML Engineering
 
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
