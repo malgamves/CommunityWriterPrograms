@@ -130,6 +130,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Postmark](https://postmarkapp.com/write-for-us) - $200-$300 per piece
   > Applications are currently closed.
+  
+- [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
+  > Get paid to write articles about cryptocurrencies and web3/blockchain.
 
 - [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece
   > Writing about devops, Kubernetes, and Rancher.
