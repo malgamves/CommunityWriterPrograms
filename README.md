@@ -125,6 +125,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
+- [Okteto](https://okteto.com/tech-writer/) - $200 per article
+    > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+
 - [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
   > Get paid to write articles about machine learning, data science, and more.
 
@@ -133,7 +136,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Postmark](https://postmarkapp.com/write-for-us) - $200-$300 per piece
   > Applications are currently closed.
-  
+
 - [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
   > Get paid to write articles about cryptocurrencies and web3/blockchain.
 
