@@ -166,7 +166,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Soshace](https://docs.google.com/document/d/1DZ9Hj8AcNfHI6bC4bfTDIFRNIIFnda6Mkj_n_4x3hWw/edit) - $100 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
-- [SQLShack](https://www.sqlshack.com/about-us/)
+- [SQLShack](https://www.sqlshack.com/about-us/) - 200$ per piece
   > Technical focused articles. Specific on SQL Server and related technologies.
   
 - [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1)
