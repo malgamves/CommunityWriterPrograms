@@ -43,6 +43,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.
   > Technical focused articles. Specific on Flutter.
 
+- [CodingSight](https://codingsight.com) - Proposed article should be sent to [marketing@devart.com](mailto:marketing@devart.com) (payment depends on the length, research and audience)
+  > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure.
+  
 - [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
 
@@ -119,6 +122,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Nanonet](https://nanonets.com/blog/write-for-us/)
   > Get paid to write about your favourite machine learning topics!
 
+- [MSSQLTips](https://www.mssqltips.com/contribute/)
+  > Get paid to write about SQL Server and related technologies.
+ 
 - [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article.
   > Technical articles, how-to guides and tutorials on machine learning and data science.
 
@@ -160,6 +166,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Soshace](https://docs.google.com/document/d/1DZ9Hj8AcNfHI6bC4bfTDIFRNIIFnda6Mkj_n_4x3hWw/edit) - $100 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
+- [SQLShack](https://www.sqlshack.com/about-us/)
+  > Technical focused articles. Specific on SQL Server and related technologies.
+  
 - [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1)
   > Technical focused articles. No limitation on topics.
 
