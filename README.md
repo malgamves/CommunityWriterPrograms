@@ -4,6 +4,9 @@ Paid writer programs usually have just enough of an incentive for people to get 
 
 A list of companies that have paid Developer Community Writer Programs.
 
+- [Alan AI](https://forms.gle/VJ3gQ2tNWqd3pLq97) - $50-$250 per article.
+  > Technical content, tutorials, building demo projects, and how-to guides that includes Alan AI platform.
+
 - [100ms](https://www.100ms.live/technical-writer-program) - $200-$500 per article.
   > Technical content and tutorials related to the 100ms SDKs.
 
