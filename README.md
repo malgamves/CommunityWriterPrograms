@@ -22,6 +22,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
   > Technical content and tutorials for the Agora community.
 
+- [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
+  > Technical tutorials, guides, opinions and case studies on Kubernetes and open source cloud native technologies.
+
 - [Appsmith](https://blog.appsmith.com/launching-the-appsmith-writers-program) - $200-$400 per piece
   > Internal tools, low code, open-source, databases, application performance, engineering best practices, JavaScript, and Appsmith.
 
