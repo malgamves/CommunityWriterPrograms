@@ -74,8 +74,8 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Doppler](https://www.doppler.com/tech-writer-program) - $100 per article
   > Seeking deep-dive technical tutorials focussed on application security, secrets management, and developer tools.
 
-- [Draft.dev](https://draft.dev/#write) - Pays $300-$500 per piece
-  > Technical content agency that works with many clients. Writers who are accepted will get an email every 1-2 weeks with topics they can choose from.
+- [Draft.dev](https://draft.dev/write) - Pays $315-$578 per piece
+  > Technical content agency that works with many clients. Writers who are accepted will get an email every week and access to a writer portal with dozens of topics they can choose from.
 
 - [DZone](https://dzone.com/writers-zone) - Waiting for details
   > Broad coverage of development topics, but with heavy Java content, working hard to push into new topics and channels.
