@@ -21,6 +21,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
   > Technical content and tutorials for the Agora community.
+ 
+- [Airbyte](https://airbyte.com/write-for-the-community) - $600 per article, you also get paid $300 when your article reaches 1000 views in the first month.
+  > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
   > Technical tutorials, guides, opinions and case studies on Kubernetes and open source cloud native technologies.
@@ -67,7 +70,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
 
-- [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold**
+- [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold, please check back on the first of March 2022!**
 
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
@@ -207,6 +210,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Warrant](https://forms.gle/UyuHRrXc2sE8v1xQ6) - $100 per piece
   > Technical content focused on authorization.
+
+- [Webapp.io](https://webapp.io/technical-writer-program) - $150+ per piece
+  > Technical content focused on WebApp projects, Docker, Node and Ruby.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
