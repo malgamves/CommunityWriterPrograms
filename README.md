@@ -113,6 +113,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
   > Technical tutorials with code. Write about anything frontend.
 
+- [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece
+  > Technical content and tutorials about DevSecOps, Cloud security, Kubernetes security.
+
 - [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
   [Link to Magic Website](https://magic.link/)
   > Technical tutorials on how to use Magic
@@ -133,6 +136,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Okteto](https://okteto.com/tech-writer/) - $200 per article
     > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+
+- [OneSignal](https://onesignal.com/guest-author-program) - $350+ per article
+    > Technical content and tutorials about OneSignal, iOS development, Android development.
 
 - [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
   > Get paid to write articles about machine learning, data science, and more.
