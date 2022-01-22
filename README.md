@@ -93,7 +93,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Content focused on technical education around serverless development and FaunaDB.
 
 - [Figment](https://www.notion.so/Contributing-to-Figment-Learn-d8ff9cdc32ca4b58838d81d07eab49bd) - Around $100 - $1000 per piece
-  > Tutorials, guides, and documentation about blockchain and Web3.
+  > Tutorials, guides, and documentation about Blockchain and Web3.
 
 - [GraphCMS](https://graphcms.com/write-for-graphcms) - Up to $300 per piece
   > Technical tutorials or blogs with code about GraphCMS or GraphQL with Jamstack or tooling of your choice.
@@ -138,7 +138,10 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials and demos using Okta's products.
 
 - [Okteto](https://okteto.com/tech-writer/) - $200 per article
-    > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+  > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+
+- [OneSignal](https://onesignal.com/guest-author-program) - Up to $350 per article
+  > Technical content (blog post, videos) that align with OneSignal's content roadmap.
 
 - [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
   > Get paid to write articles about machine learning, data science, and more.
