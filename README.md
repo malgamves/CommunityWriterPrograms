@@ -220,5 +220,11 @@ A list of companies that have paid Developer Community Writer Programs.
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
 
+## Web 3.0 sites to publish Web 3.0 articles (No Guaranteed Payment yet)
+- [Mirror.xyz](https://mirror.xyz/) - Potential of your article becoming an NFT
+> An Ethereum based site to publish articles on Web 3.0
+
+
+
 
 If you'd like to add an entry, fork the repo, make the change and send over a PR or [get in touch](https://twitter.com/malgamves) with me.
