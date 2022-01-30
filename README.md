@@ -224,6 +224,10 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Mirror.xyz](https://mirror.xyz/) - Potential of your article becoming an NFT
 > An Ethereum based site to publish articles on Web 3.0
 
+- [Bitclout.com](https://bitclout.com/)
+> A platform for various decentralized version social media, and social media clones.
+Writers can publish short pieces on Web 3.0
+
 
 
 
