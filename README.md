@@ -21,7 +21,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
   > Technical content and tutorials for the Agora community.
- 
+
 - [Airbyte](https://airbyte.com/write-for-the-community) - $600 per article, you also get paid $300 when your article reaches 1000 views in the first month.
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
@@ -92,6 +92,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Fauna](https://fauna.com/blog/write-with-fauna) - Up to $350 per piece **Applications currently on hold**
   > Content focused on technical education around serverless development and FaunaDB.
 
+- [Figment](https://www.notion.so/Contributing-to-Figment-Learn-d8ff9cdc32ca4b58838d81d07eab49bd) - Around $100 - $1000 per piece
+  > Tutorials, guides, and documentation about Blockchain and Web3.
+
 - [GraphCMS](https://graphcms.com/write-for-graphcms) - Up to $300 per piece
   > Technical tutorials or blogs with code about GraphCMS or GraphQL with Jamstack or tooling of your choice.
 
@@ -135,7 +138,10 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials and demos using Okta's products.
 
 - [Okteto](https://okteto.com/tech-writer/) - $200 per article
-    > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+  > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+
+- [OneSignal](https://onesignal.com/guest-author-program) - Up to $350 per article
+  > Technical content (blog post, videos) that align with OneSignal's content roadmap.
 
 - [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
   > Get paid to write articles about machine learning, data science, and more.
