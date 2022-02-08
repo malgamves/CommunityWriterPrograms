@@ -225,6 +225,10 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
+
+- [Enlear](https://www.enlear.com/) - $50 to $150 per article
+  > Get paid to write about broad area of technical topics. Including Vue, Angular, React, Node, JS, DynamoDB
+  
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
