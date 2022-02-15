@@ -43,7 +43,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Applications are currently closed.
   > Technical focused articles. Specific on Flutter.
 
-- [CodingSight](https://codingsight.com) - Proposed article should be sent to [marketing@devart.com](mailto:marketing@devart.com) (payment depends on the length, research and audience)
+- [CodingSight](https://codingsight.com) - Proposed article should be sent to [marketing@devart.com](mailto:marketing@devart.com) (payment depends on the length, research and audience) - From 100$ to 250$ based on the article technical level
   > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure.
   
 - [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
