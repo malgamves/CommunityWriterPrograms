@@ -137,7 +137,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Nanonet](https://nanonets.com/blog/write-for-us/)
   > Get paid to write about your favourite machine learning topics!
 
-- [MSSQLTips](https://www.mssqltips.com/contribute/) - [100$ per tip](https://www.brentozar.com/archive/2008/12/how-start-blog/)
+- [MSSQLTips](https://www.mssqltips.com/contribute/) - [160$ per tip](https://www.brentozar.com/archive/2008/12/how-start-blog/)
   > Get paid to write about SQL Server and related technologies.
  
 - [Neptune](https://neptune.ai/write-for-us) - Up to $500 per article.
