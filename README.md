@@ -176,6 +176,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Section.io](https://github.com/section-io/engineering-education) - $50 to $150 per article
   > Engineering education blog where Computer Science university students may contribute content for pay.
 
+- [Simple Talk](https://www.red-gate.com/simple-talk/write-for-us/) - 350$ per article
+  > Technical articles focused on SQL Server, MySQL, and Postgres.
+
 - [SitePoint](https://sitepoint.typeform.com/to/DMmYfn) - $250 per article
   > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
 
