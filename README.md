@@ -21,7 +21,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
   > Technical content and tutorials for the Agora community.
- 
+
 - [Airbyte](https://airbyte.com/write-for-the-community) - $600 per article, you also get paid $300 when your article reaches 1000 views in the first month.
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
@@ -36,6 +36,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Auth0](https://auth0.com/guest-authors) - Up to $450 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
+
+- [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvments (Java))
+  > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
 
 - [Bejamas](https://bejamas.io/paid-writing-program/) - Waiting for details
   > Jamstack, serverless and modern web development. Pitch a topic or pick from a list of possible articles
@@ -92,6 +95,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Fauna](https://fauna.com/blog/write-with-fauna) - Up to $350 per piece **Applications currently on hold**
   > Content focused on technical education around serverless development and FaunaDB.
 
+- [Figment](https://www.notion.so/Contributing-to-Figment-Learn-d8ff9cdc32ca4b58838d81d07eab49bd) - Around $100 - $1000 per piece
+  > Tutorials, guides, and documentation about Blockchain and Web3.
+
 - [GraphCMS](https://graphcms.com/write-for-graphcms) - Up to $300 per piece
   > Technical tutorials or blogs with code about GraphCMS or GraphQL with Jamstack or tooling of your choice.
 
@@ -135,7 +141,10 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials and demos using Okta's products.
 
 - [Okteto](https://okteto.com/tech-writer/) - $200 per article
-    > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+  > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
+
+- [OneSignal](https://onesignal.com/guest-author-program) - Up to $350 per article
+  > Technical content (blog post, videos) that align with OneSignal's content roadmap.
 
 - [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
   > Get paid to write articles about machine learning, data science, and more.
@@ -216,6 +225,10 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
+
+- [Enlear](https://www.enlear.com/) - $50 to $150 per article
+  > Get paid to write about broad area of technical topics. Including Vue, Angular, React, Node, JS, DynamoDB
+  
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
