@@ -41,11 +41,9 @@ A list of companies that have paid Developer Community Writer Programs.
   > Jamstack, serverless and modern web development. Pitch a topic or pick from a list of possible articles
 - [Bird Eats Bug](https://birdeatsbug.com/jobs/technical-content-writer) - $100 - $300 (Tutorial)
   > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
+
 - [CircleCI](https://circleci.com/blog/guest-writer-program/)  - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
-
-- [Clubhouse.io](https://clubhouse.io/clubhouse-write-earn-give-program/) - Up to $600 per piece
-  > Technical tutorials and how-to guides. Pick from a list of possible articles.
 
 - [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
   > Technical focused articles. Pick from a list of possible articles.
@@ -153,7 +151,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece
   > Writing about devops, Kubernetes, and Rancher.
 
-- [Real Python](https://realpython.com/write-for-us/) - Applications are currently (as of Aug/21) closed. 
+- [Real Python](https://realpython.com/write-for-us/) - **Applications currently on hold** 
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
