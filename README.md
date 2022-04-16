@@ -22,7 +22,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
   > Technical content and tutorials for the Agora community.
 
-- [Airbyte](https://airbyte.com/write-for-the-community) - $600 per article, you also get paid $300 when your article reaches 1000 views in the first month.
+- [Airbyte](https://airbyte.com/write-for-the-community) - $900 per article of about 1500 words.
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
