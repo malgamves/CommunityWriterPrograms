@@ -65,8 +65,8 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical focused articles. No limitation on topics.
 
 - [Cube Dev](https://www.notion.so/Cube-js-Guest-Authors-8ddd5046be9048d9869410b60d4a2b98) — Up to $300 per piece
-  > Technical tutotials and blog posts with code on [Cube.js](https://cube.dev), building analytical apps, data visualization, and data engineering. Pick from a list of possible articles or suggest your own.
-
+  > Technical tutorials and blog posts with code on [Cube.js](https://cube.dev), building analytical apps, data visualization, and data engineering. Pick from a list of possible articles or suggest your own.
+  
 - [Deepsource](https://deepsource.io/tech-writer/) - Around $150 per piece  
   > Technical Content concerning code quality, code review and static analysis
 
@@ -74,7 +74,6 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical content production agency that works with many clients.
 
 - [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold, please check back on the first of March 2022!**
-
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
 - [Dockship](https://dockship.io/articles) - $20
@@ -164,7 +163,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece
   > Writing about devops, Kubernetes, and Rancher.
 
-- [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
+- [Real Python](https://realpython.com/write-for-us/) - **Applications currently on hold** 
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
@@ -222,9 +221,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $600 per piece
   > most topic take a look on Vultr document
-
-- [Warrant](https://forms.gle/UyuHRrXc2sE8v1xQ6) - $100 per piece
-  > Technical content focused on authorization.
 
 - [Webapp.io](https://webapp.io/technical-writer-program) - $150+ per piece
   > Technical content focused on WebApp projects, Docker, Node and Ruby.
