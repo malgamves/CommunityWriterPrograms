@@ -12,6 +12,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
   > Technical content and tutorials related to the APIs in their catalogue.
+
 - [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article
   > Technical tutorials on IT ops, cloud and DevOps topics. You can pick from a list of topics or pitch your own. Run by Microsoft MVP and built to help geeks write better and begin blogging.
 
@@ -20,7 +21,8 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
   > Technical content and tutorials for the Agora community.
-- [Airbyte](https://airbyte.com/write-for-the-community) - $600 per article, you also get paid $300 when your article reaches 1000 views in the first month.
+
+- [Airbyte](https://airbyte.com/write-for-the-community) - $900 per article of about 1500 words.
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
@@ -34,11 +36,13 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Auth0](https://auth0.com/guest-authors) - Up to $450 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
+
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvments (Java))
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
 
 - [Bejamas](https://bejamas.io/paid-writing-program/) - Waiting for details
   > Jamstack, serverless and modern web development. Pitch a topic or pick from a list of possible articles
+
 - [Bird Eats Bug](https://birdeatsbug.com/jobs/technical-content-writer) - $100 - $300 (Tutorial)
   > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
 
@@ -68,6 +72,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - Around $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
+
 - [Digital Ocean](https://www.digitalocean.com/write-for-donations/) - Up to $400 per piece **Applications currently on hold, please check back on the first of March 2022!**
   > Technical tutorials with code. Not limited to Digital Ocean products.
 
@@ -88,6 +93,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Fauna](https://fauna.com/blog/write-with-fauna) - Up to $350 per piece **Applications currently on hold**
   > Content focused on technical education around serverless development and FaunaDB.
+
 - [Figment](https://www.notion.so/Contributing-to-Figment-Learn-d8ff9cdc32ca4b58838d81d07eab49bd) - Around $100 - $1000 per piece
   > Tutorials, guides, and documentation about Blockchain and Web3.
 
@@ -114,6 +120,10 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
   > Technical tutorials with code. Write about anything frontend.
+
+- [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece
+  > Technical content and tutorials about DevSecOps, Cloud security, Kubernetes security.
+
 - [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
   [Link to Magic Website](https://magic.link/)
   > Technical tutorials on how to use Magic
@@ -145,6 +155,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Postmark](https://postmarkapp.com/write-for-us) - $200-$300 per piece
   > Applications are currently closed.
+
 - [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
   > Get paid to write articles about cryptocurrencies and web3/blockchain.
 
@@ -163,6 +174,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [SitePoint](https://sitepoint.typeform.com/to/DMmYfn) - $250 per article
   > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
 
+- [SigNoz](https://signoz.io/technical-writer-program/) - $150 per article
+  > Product tutorials related to SigNoz, and technical content related to topics in our domain like opentelemetry, distributed tracing, application performance monitoring, etc.
+ 
 - [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) - $200 to $250 per article
   > Technical focused articles. No limitation on topics.
 
@@ -188,6 +202,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [TestDriven.io](https://testdriven.io/blog/) - $300-$500 per guest post
   > Web development tutorials designed to teach critical skills needed to test, launch, scale, and optimize applications.
+
 - [Topcoder](https://www.topcoder.com/thrive/articles/Submitting%20a%20Thrive%20Article) - $75 per piece
   > Tutorials, workshops and articles are accepted. Get paid to write about Competitive Programming, Data Science, Design, Development, QA and/or Gig Work.
 
@@ -205,14 +220,13 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $600 per piece
   > most topic take a look on Vultr document
-- [Warrant](https://forms.gle/UyuHRrXc2sE8v1xQ6) - $100 per piece
-  > Technical content focused on authorization.
 
 - [Webapp.io](https://webapp.io/technical-writer-program) - $150+ per piece
   > Technical content focused on WebApp projects, Docker, Node and Ruby.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $200 per piece
   > Wordpress tutorials and articles.
+
 - [Enlear](https://www.enlear.com/) - $50 to $150 per article
   > Get paid to write about broad area of technical topics. Including Vue, Angular, React, Node, JS, DynamoDB
   
