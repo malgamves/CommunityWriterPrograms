@@ -164,7 +164,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1) - $500 per piece
-  > Technical focused articles. No limitation on topics.
+  > Software engineering focused articles. No tutorials and should be of interest to a wide range of developers.
 
 - [Strapi](https://strapi.io/write-for-the-community) - Up to $200 per piece
   > Articles or tutorials with code covering use-cases, solutions and projects built with Strapi that include Vue, Open Source, JavaScript, GraphQL, Jamstack, React. Pick from a list of possible articles or pitch your own.
