@@ -130,6 +130,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Neptune](https://neptune.ai/write-for-us) - $300-$600 per article.
   > Technical articles, how-to guides and tutorials on machine learning and data science.
 
+- [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
+  > Technical tutorials and demos using Okta's products.
+
 - [Okteto](https://okteto.com/tech-writer/) - $200 per article
   > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
 
