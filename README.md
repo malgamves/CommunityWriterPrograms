@@ -28,6 +28,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
   > Technical tutorials, guides, opinions and case studies on Kubernetes and open source cloud native technologies.
 
+- [Applozic](https://www.applozic.com/guest-writer/) - $100+ per piece
+  > Tutorials on how to build Chat, Voice, and Video calling apps using Android, iOS or with frontend languages like Javascript frameworks and their respective ecosystems (Angular, Vue, React) 
+
 - [Appsmith](https://blog.appsmith.com/launching-the-appsmith-writers-program) - $200-$400 per piece
   > Internal tools, low code, open-source, databases, application performance, engineering best practices, JavaScript, and Appsmith.
 
@@ -48,6 +51,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [CircleCI](https://circleci.com/blog/guest-writer-program/)  - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
+
+- [Civo](https://www.civo.com/write-for-us) - $300- $500 per article
+  > Technical tutorials, guides and case studies on Kubernetes tools and Civo features.
 
 - [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
   > Technical focused articles. Pick from a list of possible articles.
@@ -215,6 +221,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [TestDriven.io](https://testdriven.io/blog/) - $300-$500 per guest post
   > Web development tutorials designed to teach critical skills needed to test, launch, scale, and optimize applications.
+
+- [TheBotForge](https://www.thebotforge.io/guest-authors/) - up to £200 per article
+  > Technical tutorials, guides and case studies on conversational AI and NLP/NLP/Machine Learning.
 
 - [Topcoder](https://www.topcoder.com/thrive/articles/Submitting%20a%20Thrive%20Article) - $75 per piece
   > Tutorials, workshops and articles are accepted. Get paid to write about Competitive Programming, Data Science, Design, Development, QA and/or Gig Work.
