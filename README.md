@@ -101,7 +101,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [GraphCMS](https://graphcms.com/write-for-graphcms) - Up to $300 per piece
   > Technical tutorials or blogs with code about GraphCMS or GraphQL with Jamstack or tooling of your choice.
 
-- [Hashnode](https://web3.hashnode.com/contribute) - $300 per article
+- [Hashnode Web3 Blog](https://web3.hashnode.com/contribute) - $300 per article
   > Technical content and tutorials related to Web3.
 
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
