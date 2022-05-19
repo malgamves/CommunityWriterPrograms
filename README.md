@@ -57,6 +57,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [CodingSight](https://codingsight.com) (Email [marketing@devart.com](mailto:marketing@devart.com)) - $100-$250 per piece
   > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure.
+
+- [Cohesive](https://cohesiveso.notion.site/Cohesive-Writers-Program-114332379ec8444f8ca0ee774b805253) (Email [writers@cohesive.so](mailto:writers@cohesive.so) - $200-$500 per piece
+  > Technical articles on DevOps, Dev Environments, Docker, Kubernetes, Developer Productivity, Cloud Platforms etc. 
   
 - [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
