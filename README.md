@@ -28,6 +28,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
   > Technical tutorials, guides, opinions and case studies on Kubernetes and open source cloud native technologies.
 
+- [Applozic](https://www.applozic.com/guest-writer/) - $100+ per piece
+  > Tutorials on how to build Chat, Voice, and Video calling apps using Android, iOS or with frontend languages like Javascript frameworks and their respective ecosystems (Angular, Vue, React). 
+
 - [Appsmith](https://blog.appsmith.com/launching-the-appsmith-writers-program) - $200-$400 per piece
   > Internal tools, low code, open-source, databases, application performance, engineering best practices, JavaScript, and Appsmith.
 
@@ -46,14 +49,20 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Bird Eats Bug](https://birdeatsbug.com/jobs/technical-content-writer) - $100 - $300 (Tutorial)
   > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
 
-- [CircleCI](https://circleci.com/blog/guest-writer-program/)  - Up to $300 per piece
+- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $300 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
+
+- [CodeCov](https://about.codecov.io/write-for-us/) - $500 per piece
+  > Technical articles foocused on DevOps and testing. 
 
 - [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
   > Technical focused articles. Pick from a list of possible articles.
 
 - [Code Magic](https://blog.codemagic.io/write-for-codemagic-ci-cd/) - Pay unknown
   > Technical articles about Flutter.
+
+- [Codiga](https://www.codiga.io/write-for-us/) - $100-$150 per piece
+  > Technical articles focused on code quality.
 
 - [CodingSight](https://codingsight.com) (Email [marketing@devart.com](mailto:marketing@devart.com)) - $100-$250 per piece
   > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure.
@@ -109,9 +118,15 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
 
+- [Hedera](https://github.com/hashgraph/hedera-heroes) - $100 per piece
+  > Articles must feature Hedera technologies and cryptography.
+
+- [Hevo](https://community.hevodata.com/write-for-hevo) - $100 per piece
+  > Technical content related to Data engineering.
+
 - [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - $100 per piece, $200 for 2x length and ghostwritten articles (Special articles).
   > Technical content production agency that works with many clients.
-
+  
 - [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece
   > Ruby and Elixir tutorials with code. Pick from a list of possible articles.
 
@@ -178,6 +193,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Software Engineering Daily](https://softwareengineeringdaily.com/write/) - Pay unknown
   > We explain how software is built. We explain how software has gotten us to where we are, and how new software will shape our future.
 
+- [Solace](https://solace.com/scholars/) - $300 per piece
+  > Articles must feature Solace technologies.
+
 - [Soshace](https://blog.soshace.com/write-for-us/) - $100 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
@@ -198,6 +216,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [TechWell](https://www.techwell.com/techwell-submission-guidelines) - $200 per piece
   > A wide variety of technical and business content is considered.
+
+- [TheBotForge](https://www.thebotforge.io/guest-authors/) - up to £200 per article
+  > Technical tutorials, guides and case studies on conversational AI and NLP/NLP/Machine Learning.
 
 - [Topcoder](https://www.topcoder.com/thrive/articles/Submitting%20a%20Thrive%20Article) - $75 per piece
   > Tutorials, workshops and articles are accepted. Get paid to write about Competitive Programming, Data Science, Design, Development, QA and/or Gig Work.
