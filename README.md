@@ -227,7 +227,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > In-depth tutorials on technical and business topics.
 
 - [Twilio](https://go.twilio.com/twilio-voices/) - Up to $500 per piece
-  > Technical tutorials with code. Doesn't necessarily have to use Twilio.
+  > Technical tutorials that focuses on encouraging developers to build the future of communications.
 
 - [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece
   > Technical articles/tutorials related to TypingDNA.
