@@ -46,7 +46,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Bejamas](https://bejamas.io/paid-writing-program/) - Pay unknown
   > Jamstack, serverless and modern web development. Pitch a topic or pick from a list of possible articles.
 
-- [Bird Eats Bug](https://birdeatsbug.com/jobs/technical-content-writer) - $100 - $300 (Tutorial)
+- [Bird Eats Bug](https://jobs.birdeatsbug.com/o/freelance-technical-content-writer-fmx/c/new) - $100 - $300 (Tutorial)
   > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
 
 - [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $300 per piece
