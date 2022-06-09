@@ -172,6 +172,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
   > Thought leadership and technical articles about PHP.
 
+- [RunX](https://blog.runx.dev/announcing-runxs-technical-writer-program-ea3790f0a80) - $150 for opinion pieces around DevOps and $200 for Tutorials
+  > Get paid to write about DevOps, cloud infrastructure, and Opta.
+
 - [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
   > Get paid to write articles about cryptocurrencies and web3/blockchain.
 
