@@ -49,7 +49,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Bird Eats Bug](https://jobs.birdeatsbug.com/o/freelance-technical-content-writer-fmx/c/new) - $100 - $300 (Tutorial)
   > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
 
-- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $300 per piece
+- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $325 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [CodeCov](https://about.codecov.io/write-for-us/) - $500 per piece
