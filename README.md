@@ -118,6 +118,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
 
+- [Heartbeat by Comet](https://heartbeat.comet.ml/call-for-contributors-fee7f5b80f3e) - [over $150](https://www.youtube.com/watch?v=e_B0vt-eWPw) per piece
+  > Technical content related to Trends in machine learning research, explorations of new tools and libraries and data science.
+
 - [Hedera](https://github.com/hashgraph/hedera-heroes) - $100 per piece
   > Articles must feature Hedera technologies and cryptography.
 
