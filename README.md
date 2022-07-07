@@ -254,11 +254,8 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Mattermost](https://mattermost.com/blog/blog-announcing-community-writing-program/) - up to $500 per piece
   > write on a broad range of technical content from experienced writers to produce content for software developers that provides rich detail about using popular tools.
   
-- [Signoz](https://signoz.io/technical-writer-program/) - $150 per piece
-  > Write about DevOps, OpenTelemetry, and using SigNoz 
-
-- [Strapi](https://strapi.io/write-for-the-community) - up to $200 per piece
-  > Write about Strapi and Strapi related tools 
+- [Sweetcode](https://sweetcode.io/join-community/) - $150 per piece
+  > Write about DevOps, Web Development and a wide range of developer topics 
 
 ---
 ## Resources with similar lists
