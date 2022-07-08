@@ -147,7 +147,10 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
   > Technical tutorials on how to use Magic.link
-
+  
+- [Mattermost](https://mattermost.com/blog/blog-announcing-community-writing-program/) - up to $500 per piece
+  > write on a broad range of technical content from experienced writers to produce content for software developers that provides rich detail about using popular tools.
+  
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
 
@@ -214,6 +217,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Strapi](https://strapi.io/write-for-the-community) - Up to $200 per piece
   > Articles or tutorials with code covering use-cases, solutions and projects built with Strapi that include Vue, Open Source, JavaScript, GraphQL, Jamstack, React. Pick from a list of possible articles or pitch your own.
 
+- [Sweetcode](https://sweetcode.io/join-community/) - $150 per piece
+  > Write about DevOps, Web Development and a wide range of developer topics 
+  
 - [TakeShape](https://www.takeshape.io/jobs/contributing-writer/) - Up to $300 per piece
   > Web dev tutorials with code. General frontend topics including, React, JavaScript, GraphQL, Jamstack. Pick from a list of possible articles or pitch your own.
 
@@ -249,7 +255,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [WPHUB](https://www.wphub.com/write-for-us/) - $100-$200 per piece
   > Wordpress tutorials and articles.
-  
+
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
