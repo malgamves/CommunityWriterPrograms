@@ -72,6 +72,9 @@ A list of companies that have paid Developer Community Writer Programs.
   
 - [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
+  
+- [Content Turbine](https://www.contentturbine.com/freelance) - $150+ per piece
+  > Technical content agency. How-to articles, developer guides, and product usecases are among the specialties.
 
 - [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
   > Content area experts can submit tutorials and blog content.
