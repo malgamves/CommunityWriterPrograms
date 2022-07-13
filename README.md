@@ -4,6 +4,9 @@ Paid writer programs usually have just enough of an incentive for people to get 
 
 A list of companies that have paid Developer Community Writer Programs.
 
+- [Memphis.dev](https://forms.gle/EJvfgLGivUzFMfcY9) - $500-$800 per article.
+  > Deep-dive technical content over memphis GoLang-based message broker internals | Event-driven use cases | Data Streaming articles
+
 - [100ms](https://www.100ms.live/technical-writer-program) - $200-$500 per article.
   > Technical content and tutorials related to the 100ms SDKs.
 
