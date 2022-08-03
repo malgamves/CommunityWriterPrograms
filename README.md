@@ -37,9 +37,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
 
-- [Auth0](https://auth0.com/guest-authors) - Up to $450 per piece
-  > Technical tutorials with code. Pick from a list of possible articles.
-
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvments (Java))
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
 
@@ -49,7 +46,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Bird Eats Bug](https://jobs.birdeatsbug.com/o/freelance-technical-content-writer-fmx/c/new) - $100 - $300 (Tutorial)
   > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
 
-- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $300 per piece
+- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $325 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [CodeCov](https://about.codecov.io/write-for-us/) - $500 per piece
