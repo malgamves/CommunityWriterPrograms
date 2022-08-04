@@ -120,7 +120,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials with code. Not limited to LoginRadius products.
 
 - [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
-  > Technical tutorials with code. Write about anything frontend.
+  > Technical tutorials with code. Write about anything frontend. LogRocket has paused their application
 
 - [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
   [Link to Magic Website](https://magic.link/)
