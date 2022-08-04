@@ -139,9 +139,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
 
-- [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
-  > Technical tutorials with code. Write about anything frontend.
-
 - [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece
   > Technical content and tutorials about DevSecOps, Cloud security, Kubernetes security.
 
