@@ -37,9 +37,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
 
-- [Auth0](https://auth0.com/guest-authors) - Up to $450 per piece
-  > Technical tutorials with code. Pick from a list of possible articles.
-
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvments (Java))
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
 
@@ -49,7 +46,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Bird Eats Bug](https://jobs.birdeatsbug.com/o/freelance-technical-content-writer-fmx/c/new) - $100 - $300 (Tutorial)
   > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
 
-- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $300 per piece
+- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $325 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [CodeCov](https://about.codecov.io/write-for-us/) - $500 per piece
@@ -115,7 +112,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [GraphCMS](https://graphcms.com/write-for-graphcms) - Up to $300 per piece
   > Technical tutorials or blogs with code about GraphCMS or GraphQL with Jamstack or tooling of your choice.
 
-- [Hashnode Web3 Blog](https://web3.hashnode.com/contribute) - $300 per article
+- [Hashnode Web3 Blog](https://web3.hashnode.com/contribute) - $150 - $400 per article
   > Technical content and tutorials related to Web3.
 
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
@@ -142,9 +139,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
 
-- [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
-  > Technical tutorials with code. Write about anything frontend.
-
 - [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece
   > Technical content and tutorials about DevSecOps, Cloud security, Kubernetes security.
 
@@ -162,6 +156,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Neptune](https://neptune.ai/write-for-us) - $300-$600 per article.
   > Technical articles, how-to guides and tutorials on machine learning and data science.
+
+- [Neverinstall](https://blog.neverinstall.com/neverinstall-technical-writer-program) - $100-$250 per article.
+  > Neverinstall invites developers to contribute to our knowledge library and develop content for the tech community. As we work on cutting-edge technologies, we call upon enthusiasts and passionate software developers to help us spread awareness through guides, blogs, tutorials, and more.
 
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
