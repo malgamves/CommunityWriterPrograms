@@ -50,7 +50,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials with code. Pick from a list of possible articles.
 
 - [CodeCov](https://about.codecov.io/write-for-us/) - $500 per piece
-  > Technical articles foocused on DevOps and testing. 
+  > Technical articles focused on DevOps and testing. 
 
 - [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
   > Technical focused articles. Pick from a list of possible articles.
