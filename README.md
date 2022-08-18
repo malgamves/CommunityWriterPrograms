@@ -181,6 +181,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [RunX](https://blog.runx.dev/announcing-runxs-technical-writer-program-ea3790f0a80) - $150 for opinion pieces around DevOps and $200 for Tutorials
   > Get paid to write about DevOps, cloud infrastructure, and Opta.
 
+- [Scaler Topics](https://www.scaler.com/topics/) -  Pay unknown
+  > Technical tutorials that focuses on aspiring programmers to learn and master their coding skills..
+
 - [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
   > Technical focused articles and how-to guides. Pick from a list of possible articles.
 
