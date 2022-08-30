@@ -4,9 +4,6 @@ Paid writer programs usually have just enough of an incentive for people to get 
 
 A list of companies that have paid Developer Community Writer Programs.
 
-- [100ms](https://www.100ms.live/technical-writer-program) - $200-$500 per article.
-  > Technical content and tutorials related to the 100ms SDKs.
-
 - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
   > Technical content and tutorials related to the APIs in their catalogue.
 
