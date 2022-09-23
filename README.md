@@ -106,9 +106,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Figment](https://www.notion.so/Contributing-to-Figment-Learn-d8ff9cdc32ca4b58838d81d07eab49bd) - $100-$1000 per piece
   > Tutorials, guides, and documentation about Blockchain and Web3.
 
-- [GraphCMS](https://graphcms.com/write-for-graphcms) - Up to $300 per piece
-  > Technical tutorials or blogs with code about GraphCMS or GraphQL with Jamstack or tooling of your choice.
-
 - [Hashnode Web3 Blog](https://web3.hashnode.com/contribute) - $150 - $400 per article
   > Technical content and tutorials related to Web3.
 
@@ -129,6 +126,9 @@ A list of companies that have paid Developer Community Writer Programs.
   
 - [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece
   > Ruby and Elixir tutorials with code. Pick from a list of possible articles.
+
+- [Hygraph](https://hygraph.com/write-for-hygraph) - Up to $300 per piece
+  > Technical tutorials or blogs with code about Hygraph or GraphQL with Jamstack or tooling of your choice.
 
 - [Linode](https://www.linode.com/lp/write-for-linode/) - Up to $400 per piece
   > Technical tutorials with code on Linux or Linode.
