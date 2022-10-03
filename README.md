@@ -145,6 +145,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
 
+- [Mattermost](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/community-content-program) - Up to $500 per article
+  > Beginner to intermediate technical content including introductions and guides for useful libraries, programming environments, languages, and tech stacks.
+
 - [MSSQLTips](https://www.mssqltips.com/contribute/) - $160 per tip
   > Get paid to write about SQL Server and related technologies.
 
