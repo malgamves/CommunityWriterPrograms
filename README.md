@@ -46,6 +46,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $325 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
+- [Civo](https://www.civo.com/write-for-us) - Up to $500 per piece
+  > Write a tutorial or how-to guide at Civo and get paid.
+
 - [CodeCov](https://about.codecov.io/write-for-us/) - $500 per piece
   > Technical articles focused on DevOps and testing. 
 
