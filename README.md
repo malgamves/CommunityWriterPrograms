@@ -251,7 +251,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Wordpress tutorials and articles.
  
  - [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
-  > Tutorials on drupal.
+   > Tutorials on drupal.
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
