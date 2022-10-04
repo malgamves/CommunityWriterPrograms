@@ -247,11 +247,12 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece
   > Articles & tutorials with code covering uses of and projects built with Webiny. You could include things like Gatsby, Next.js, React, Vue, Svelte, GraphQL, Jamstack, Open Source, and Serverless. Join our community to pick from a list of articles we're looking for, or pitch your own.
 
+- [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
+  > Tutorials on drupal.
+
 - [WPHUB](https://www.wphub.com/write-for-us/) - $100-$200 per piece
   > Wordpress tutorials and articles.
- 
- - [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
-   > Tutorials on drupal.
+
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
