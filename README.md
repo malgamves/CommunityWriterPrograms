@@ -25,6 +25,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
   > Technical tutorials, guides, opinions and case studies on Kubernetes and open source cloud native technologies.
 
+- [Ant Media](https://antmedia.io/write-for-us-looking-for-technical-authors/) - $50-$150 per piece
+  > Articles on streaming technologies and trends (WebRTC, RTMP Protocol)
+ 
 - [Applozic](https://www.applozic.com/guest-writer/) - $100+ per piece
   > Tutorials on how to build Chat, Voice, and Video calling apps using Android, iOS or with frontend languages like Javascript frameworks and their respective ecosystems (Angular, Vue, React). 
 
