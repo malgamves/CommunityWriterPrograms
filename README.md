@@ -46,6 +46,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $325 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
+- [Civo](https://www.civo.com/write-for-us) - Up to $500 per piece
+  > Write a tutorial or how-to guide at Civo and get paid.
+
 - [CodeCov](https://about.codecov.io/write-for-us/) - $500 per piece
   > Technical articles focused on DevOps and testing. 
 
@@ -247,9 +250,11 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece
   > Articles & tutorials with code covering uses of and projects built with Webiny. You could include things like Gatsby, Next.js, React, Vue, Svelte, GraphQL, Jamstack, Open Source, and Serverless. Join our community to pick from a list of articles we're looking for, or pitch your own.
 
+- [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
+  > Tutorials on drupal.
+
 - [WPHUB](https://www.wphub.com/write-for-us/) - $100-$200 per piece
   > Wordpress tutorials and articles.
-  
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
