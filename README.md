@@ -76,7 +76,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
   > Content area experts can submit tutorials and blog content.
 
-- [CSS Tricks](https://css-tricks.com/guest-posting/) - Around $250 per piece (depends on the length, research and audience)
+- [CSS Tricks](https://css-tricks.com/guest-posting/) - $300 per piece
   > Technical focused articles. No limitation on topics.
 
 - [Cube Dev](https://www.notion.so/Cube-js-Guest-Authors-8ddd5046be9048d9869410b60d4a2b98) — Up to $300 per piece
