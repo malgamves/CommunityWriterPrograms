@@ -44,7 +44,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
 
 - [Chainstack Developer Hub](https://github.com/chainstack/developer-hub-content) - Up to $300 per approved project.
-  > Web3 technical content with code. Tutotrials, guides, and expository content.
+  > Web3 technical content with code. Tutorials, guides, and expository content.
   
 - [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $325 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
