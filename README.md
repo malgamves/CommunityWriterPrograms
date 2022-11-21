@@ -171,6 +171,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [OneSignal](https://onesignal.com/guest-author-program) - Up to $350 per article
   > Technical content (blog post, videos) that align with OneSignal's content roadmap.
+  
+- [OpenReplay](https://medium.com/stackanatomy/write-for-us-ad11489bd7c3) - Up to $250 per article
+  > We’re always looking for talented authors that are willing to cover any and all topics that are of interest to front-end developers.
 
 - [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
   > Get paid to write articles about machine learning, data science, and more.
