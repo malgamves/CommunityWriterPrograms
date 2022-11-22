@@ -169,7 +169,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Neverinstall](https://blog.neverinstall.com/neverinstall-technical-writer-program) - $100-$250 per article.
   > Neverinstall invites developers to contribute to our knowledge library and develop content for the tech community. As we work on cutting-edge technologies, we call upon enthusiasts and passionate software developers to help us spread awareness through guides, blogs, tutorials, and more.
 
-- [Nimblebox.ai](https://nimblebox.ai/technical-writer-program) - $50+ per article.
+- [Nimblebox.ai](https://nimblebox.ai/technical-writer-program) - $100 per article.
   > The NimbleBox Technical Writer Program is a way for you to support the future of MLOps by writing technical articles.
 
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
