@@ -115,7 +115,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Figment](https://www.notion.so/Contributing-to-Figment-Learn-d8ff9cdc32ca4b58838d81d07eab49bd) - $100-$1000 per piece
   > Tutorials, guides, and documentation about Blockchain and Web3.
 
-- [Hashnode Web3 Blog](https://web3.hashnode.com/contribute) - $150 - $400 per article
+- [Hashnode Web3 Blog](https://web3.hashnode.com/contribute-to-the-web3-blog) - $150 - $400 per article
   > Technical content and tutorials related to Web3.
 
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
