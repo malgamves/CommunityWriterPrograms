@@ -142,9 +142,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Hygraph](https://hygraph.com/write-for-hygraph) - Up to $300 per piece
   > Technical tutorials or blogs with code about Hygraph or GraphQL with Jamstack or tooling of your choice.
 
-- [Linode](https://www.linode.com/lp/write-for-linode/) - Up to $400 per piece
-  > Technical tutorials with code on Linux or Linode.
-
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
 
