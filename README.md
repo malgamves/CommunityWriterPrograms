@@ -87,9 +87,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [CSS Tricks](https://css-tricks.com/guest-posting/) - $300 per piece
   > Technical focused articles. No limitation on topics.
-
-- [Cube Dev](https://www.notion.so/Cube-js-Guest-Authors-8ddd5046be9048d9869410b60d4a2b98) — Up to $300 per piece
-  > Technical tutorials and blog posts with code on [Cube.js](https://cube.dev), building analytical apps, data visualization, and data engineering. Pick from a list of possible articles or suggest your own.
   
 - [Deepsource](https://deepsource.io/tech-writer/) - $150 per piece  
   > Technical Content concerning code quality, code review and static analysis
