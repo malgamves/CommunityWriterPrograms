@@ -201,6 +201,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Software Engineering Daily](https://softwareengineeringdaily.com/write/) - Pay unknown
   > We explain how software is built. We explain how software has gotten us to where we are, and how new software will shape our future.
+  
+- [Software Testing Help](https://www.softwaretestinghelp.com/opportunity-freelance-qa-testers/) - $200 -$600 per article.
+  > Create tutorials on a wide range of topics about Quality Assurance (QA) testing.
 
 - [Solace](https://solace.com/scholars/) - $300 per piece
   > Articles must feature Solace technologies.
