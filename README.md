@@ -193,6 +193,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
   > Get paid to write articles about cryptocurrencies and web3/blockchain.
 
+- [Refine](https://refine.dev/docs/contributing/) - $100-$150 per article
+  > They accept articles covering popular frontend technologies and UI enhancement. Articles         covering Refine's product and its applications.
+   
 - [RunX](https://blog.runx.dev/announcing-runxs-technical-writer-program-ea3790f0a80) - $150 for opinion pieces around DevOps and $200 for Tutorials
   > Get paid to write about DevOps, cloud infrastructure, and Opta.
   
