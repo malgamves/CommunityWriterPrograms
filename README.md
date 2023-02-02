@@ -205,6 +205,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
   > Technical focused articles and how-to guides. Pick from a list of possible articles.
 
+- [Semaphore](https://semaphoreci.com/resources/write-with-us) - Up to $500 per piece + 50% bonus for high page view count
+  > Technical articles about news, tools, libraries, CI/CD, development and culture
+
 - [Simple Talk](https://www.red-gate.com/simple-talk/write-for-us/) - $350 per article
   > Technical articles focused on SQL Server, MySQL, and Postgres.
 
