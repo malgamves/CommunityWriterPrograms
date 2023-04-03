@@ -7,7 +7,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
   > Technical content and tutorials related to the APIs in their catalogue.
 
-- [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article
+- [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article (Applications on hold - currently not accepting new authors)
   > Technical tutorials on IT ops, cloud and DevOps topics. You can pick from a list of topics or pitch your own. Run by Microsoft MVP and built to help geeks write better and begin blogging.
 
 - [Adeva](https://adevait.com/write-for-us) - $200+ per article
