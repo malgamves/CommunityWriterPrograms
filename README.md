@@ -188,7 +188,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Get paid to write articles about machine learning, data science, and more.
 
 - [Plural](https://www.plural.sh/blog/plurals-content-contribution-program/) - Up to $600 per 1,000 word article
-  > Get paid to write articles on, what you have built with Plural, tutorials on how to deploy applications with Plural, and open-source tools comparison articles
+  > Get paid to write articles on, what you have built with Plural, application-specific deployment guides, and architectural comparisons of popular open-     source tools against each other.
 
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
   > Thought leadership and technical articles about PHP.
