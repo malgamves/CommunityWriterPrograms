@@ -187,6 +187,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Paperspace](https://blog.paperspace.com/write-for-paperspace/) - $200-$300 per piece
   > Get paid to write articles about machine learning, data science, and more.
 
+- [Plural](https://www.plural.sh/blog/plurals-content-contribution-program/) - $300 per 1,000 word article
+  > Get paid to write articles on, what you have built with Plural, application-specific deployment guides, and architectural comparisons of popular open-source tools against each other.
+
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
   > Thought leadership and technical articles about PHP.
 
