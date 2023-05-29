@@ -238,6 +238,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [SQLShack](https://www.sqlshack.com/about-us/) - $200 per piece
   > Technical focused articles on SQL Server and related technologies.
 
+- [StackAbuse](https://stackabuse.com#work-with-us) - $100 - $300+ per article.
+  > Technical articles and courses on Python, JavaScript, Java, and Machine Learning topics.
+
 - [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1) - $500 per piece
   > Software engineering focused articles. No tutorials and should be of interest to a wide range of developers.
 
