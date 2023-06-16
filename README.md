@@ -37,6 +37,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
 
+- [Auth0](https://auth0.com/apollo-program/) - $450 per article (Applications are closed at the moment. We are revamping the program and will be reopening them soon. Stay tuned!)
+  >  You can write technical articles on lot of different frameworks, programming languages, and modern development techniques. Electron, Java, .NET, Python or Mobile etc.
+
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvments (Java))
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
 
@@ -142,8 +145,14 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
   > Technical tutorials or blogs with code about Dart & flutter, Firebase, Firebase extensions, Software development, open source and web technologies
 
+- [Linode](https://www.linode.com/lp/write-for-linode/) - Up to $400 Per Article (New applications currently are not being accepted. We apologize for any inconvenience)
+  > Write for Linode pays you to contribute to our library of guides and tutorials, which features more than 1,000 documents and attracts more than one million readers every month.
+
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
+
+- [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author/) - Up to $350 per post (We’re not accepting new applicants for our guest author program at the moment. Check back soon!)
+  > Tutorials on React, Vue, Node.js, Wasm, GraphQL, Rust, Frontend development best practices, Product/UX design etc.
 
 - [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece
   > Technical content and tutorials about DevSecOps, Cloud security, Kubernetes security.
