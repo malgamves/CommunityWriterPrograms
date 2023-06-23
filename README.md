@@ -7,9 +7,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
   > Technical content and tutorials related to the APIs in their catalogue.
 
-- [Adam the Automator](https://adamtheautomator.com/friends) - $100+ per article (Applications on hold - currently not accepting new authors)
-  > Technical tutorials on IT ops, cloud and DevOps topics. You can pick from a list of topics or pitch your own. Run by Microsoft MVP and built to help geeks write better and begin blogging.
-
 - [Adeva](https://adevait.com/write-for-us) - $200+ per article
   > Technical guides, thought leadership content and resources for Engineering Managers.
 
@@ -70,9 +67,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CodingSight](https://codingsight.com) (Email [marketing@devart.com](mailto:marketing@devart.com)) - $100-$250 per piece
   > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure.
 
-- [Cohesive](https://cohesiveso.notion.site/Cohesive-Writers-Program-114332379ec8444f8ca0ee774b805253) (Email [writers@cohesive.so](mailto:writers@cohesive.so) - $200-$500 per piece
-  > Technical articles on DevOps, Dev Environments, Docker, Kubernetes, Developer Productivity, Cloud Platforms etc. 
-  
 - [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
   
@@ -90,9 +84,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
-
-- [Digital Ocean](https://www.digitalocean.com/community/pages/write-for-digitalocean) - Up to $400 per piece
-  > Technical tutorials with code. Not limited to Digital Ocean products.
 
 - [Dockship](https://dockship.io/articles) - $20
   > Machine Learning and Data Science. You need to be signed in to be able to create content.
