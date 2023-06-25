@@ -238,6 +238,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Soshace](https://blog.soshace.com/write-for-us/) - $100 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
+- [SpinupWP](https://spinupwp.com/writers-program/) - $500-$1,000 per piece
+  > Technical articles on systems administration, caching, WordPress hosting, DevOps, site deployment and other server & WordPress-related topics. New articles, update existing articles or video tutorials/walkthroughs.
+
 - [SQLShack](https://www.sqlshack.com/about-us/) - $200 per piece
   > Technical focused articles on SQL Server and related technologies.
 
