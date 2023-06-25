@@ -16,7 +16,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Airbyte](https://airbyte.com/write-for-the-community) - $900 per article of about 1500 words.
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
-- [Alan AI](https://forms.gle/VJ3gQ2tNWqd3pLq97) - $50-$250 per article.
+- [Alan AI](https://forms.gle/VJ3gQ2tNWqd3pLq97) - $75-$200 per article.
   > Technical content, tutorials, building demo projects, and how-to guides that includes Alan AI platform.
 
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
@@ -25,35 +25,23 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Ant Media](https://antmedia.io/write-for-us-looking-for-technical-authors/) - $50-$150 per piece
   > Articles on streaming technologies and trends (WebRTC, RTMP Protocol)
 
-- [Appsmith](https://blog.appsmith.com/launching-the-appsmith-writers-program) - $200-$400 per piece
-  > Internal tools, low code, open-source, databases, application performance, engineering best practices, JavaScript, and Appsmith.
-
 - [appypie](https://www.appypie.com/guest-post) - Up to $100 per piece
   > Write blogs on wide range of topics.
 
 - [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
 
-- [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvments (Java))
+- [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvements)
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
 
-- [Bejamas](https://bejamas.io/paid-writing-program/) - Pay unknown
-  > Jamstack, serverless and modern web development. Pitch a topic or pick from a list of possible articles.
-
-- [Bird Eats Bug](https://jobs.birdeatsbug.com/o/freelance-technical-content-writer-fmx/c/new) - $100 - $300 (Tutorial)
-  > Write technical content related to Bird Eats Bug or software development and we will compensate you between $100-$300 for each article of yours that gets publish, depending on the quality and scope of the article.
-
-- [Chainstack Developer Hub](https://github.com/chainstack/developer-hub-content) - Up to $300 per approved project.
+- [Chainstack Developer Hub](https://github.com/chainstack/developer-hub-content) - $200
   > Web3 technical content with code. Tutorials, guides, and expository content.
   
-- [CircleCI](https://circleci.com/blog/guest-writer-program/) - Up to $325 per piece
+- [CircleCI](https://circleci.com/blog/guest-writer-program/) - $350-$600 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
-- [Civo](https://www.civo.com/write-for-us) - Up to $500 per piece
+- [Civo](https://www.civo.com/write-for-us) - $200-$500 per piece
   > Write a tutorial or how-to guide at Civo and get paid.
-
-- [CodeCov](https://about.codecov.io/write-for-us/) - $500 per piece
-  > Technical articles focused on DevOps and testing. 
 
 - [Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034) - $100 (Quick tip) $250 (Tutorial)
   > Technical focused articles. Pick from a list of possible articles.
@@ -67,21 +55,15 @@ A list of companies that have paid Developer Community Writer Programs.
 - [CodingSight](https://codingsight.com) (Email [marketing@devart.com](mailto:marketing@devart.com)) - $100-$250 per piece
   > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure.
 
-- [ContentLab.io](https://contentlab.io/write-for-contentlab/) - Up to $500 per piece
+- [ContentLab.io](https://contentlab.com/writeforus/) - Up to $500 per piece
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
   
 - [Content Turbine](https://www.contentturbine.com/freelance) - $150+ per piece
-  > Technical content agency. How-to articles, developer guides, and product usecases are among the specialties.
+  > Technical content agency. How-to articles, developer guides, and product use cases are among the specialties.
 
 - [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
   > Content area experts can submit tutorials and blog content.
-
-- [CSS Tricks](https://css-tricks.com/guest-posting/) - $300 per piece
-  > Technical focused articles. No limitation on topics.
   
-- [Deepsource](https://deepsource.io/tech-writer/) - $150 per piece  
-  > Technical Content concerning code quality, code review and static analysis
-
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
 
@@ -94,19 +76,13 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Draft.dev](https://draft.dev/write) - Pays $315-$578 per piece
   > Technical content agency that works with many clients. Writers who are accepted will get an email every week and access to a writer portal with dozens of topics they can choose from.
 
-- [Egghead](https://next.egghead.io/write-for-egghead) - Pay unknown
+- [Egghead](https://egghead.io/write-for-egghead) - Pay unknown
   > Intermediate to advanced articles covering topics on web development.
 
-- [Enlear](https://www.enlear.com/) - $50 to $150 per article
-  > Get paid to write about broad area of technical topics. Including Vue, Angular, React, Node, JS, DynamoDB
-
-- [Fauna](https://fauna.com/blog/write-with-fauna) - Up to $350 per piece
+- [Fauna](https://github.com/fauna/write-with-fauna) - Up to $700 per piece
   > Content focused on technical education around serverless development and FaunaDB.
 
-- [Figment](https://www.notion.so/Contributing-to-Figment-Learn-d8ff9cdc32ca4b58838d81d07eab49bd) - $100-$1000 per piece
-  > Tutorials, guides, and documentation about Blockchain and Web3.
-
-- [Hashnode Web3 Blog](https://web3.hashnode.com/contribute-to-the-web3-blog) - $150 - $400 per article
+- [Hashnode Web3 Blog](https://web3.hashnode.com/contribute-to-the-web3-blog) - $250-$350 per article
   > Technical content and tutorials related to Web3.
 
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
@@ -114,12 +90,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Heartbeat by Comet](https://heartbeat.comet.ml/call-for-contributors-fee7f5b80f3e) - [over $150](https://www.youtube.com/watch?v=e_B0vt-eWPw) per piece
   > Technical content related to Trends in machine learning research, explorations of new tools and libraries and data science.
-
-- [Hedera](https://github.com/hashgraph/hedera-heroes) - $100 per piece
-  > Articles must feature Hedera technologies and cryptography.
-
-- [Hevo](https://community.hevodata.com/write-for-hevo) - $100 per piece
-  > Technical content related to Data engineering.
 
 - [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - $100 per piece, $200 for 2x length and ghostwritten articles (Special articles).
   > Technical content production agency that works with many clients.
@@ -131,7 +101,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials or blogs with code about Hygraph or GraphQL with Jamstack or tooling of your choice.
 
 - [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
-  > Technical tutorials or blogs with code about Dart & flutter, Firebase, Firebase extensions, Software development, open source and web technologies
+  > Technical tutorials or blogs with code about Dart & Flutter, Firebase, Firebase extensions, Software development, open source and web technologies
 
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
