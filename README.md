@@ -84,6 +84,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [CSS Tricks](https://css-tricks.com/guest-posting/) - $300 per piece
   > Technical focused articles. No limitation on topics.
+
+- [Deepchecks](https://forms.gle/dLv1N8s9RPLBE5B36) - $100-250 per article.
+  > Technical tutorials and how-to guides that includes Deepchecks library.
   
 - [Deepsource](https://deepsource.io/tech-writer/) - $150 per piece  
   > Technical Content concerning code quality, code review and static analysis
