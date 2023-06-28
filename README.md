@@ -220,9 +220,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Tech Beacon](https://techbeacon.com/write) - $400 per piece
   > Broad coverage of development, DevOps, QA and security.
 
-- [TechWell](https://www.techwell.com/techwell-submission-guidelines) - $200 per piece
-  > A wide variety of technical and business content is considered.
-
 - [TheBotForge](https://www.thebotforge.io/guest-authors/) - up to £200 per article
   > Technical tutorials, guides and case studies on conversational AI and NLP/NLP/Machine Learning.
 
