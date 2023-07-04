@@ -103,7 +103,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
   > Technical tutorials or blogs with code about Dart & Flutter, Firebase, Firebase extensions, Software development, open source and web technologies
 
-- [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
+- [LoginRadius](https://www.loginradius.com/blog/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
 
 - [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece
