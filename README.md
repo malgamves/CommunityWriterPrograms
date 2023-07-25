@@ -100,6 +100,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Hygraph](https://hygraph.com/write-for-hygraph) - Up to $300 per piece
   > Technical tutorials or blogs with code about Hygraph or GraphQL with Jamstack or tooling of your choice.
 
+- [In Plain English](https://plainenglish.io/blog/how-to-write-for-in-plain-english) - From $100 per piece and more
+  > Technical tutorials or blogs with code about Javascript, Python and web technologies
+
 - [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
   > Technical tutorials or blogs with code about Dart & Flutter, Firebase, Firebase extensions, Software development, open source and web technologies
 
