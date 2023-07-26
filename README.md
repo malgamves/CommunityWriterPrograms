@@ -25,11 +25,20 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Ant Media](https://antmedia.io/write-for-us-looking-for-technical-authors/) - $50-$150 per piece
   > Articles on streaming technologies and trends (WebRTC, RTMP Protocol)
 
+- [AppSignal](https://blog.appsignal.com/write-for-us) - $300 per article
+  > Cover topics in full-stack web development.
+
 - [appypie](https://www.appypie.com/guest-post) - Up to $100 per piece
-  > Write blogs on wide range of topics.
+  > Write blogs on a wide range of topics.
 
 - [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
+
+- [Argot](https://www.argot.dev/writers) - Up to $600 per article
+  > Frontend development, backend development, data science, and DevOps. 
+
+- [ Auth0's](https://auth0.com/apollo-program) - Up to $450 per article
+  > Write on a broad scope of topics: Identity & Security Mobile (Native & Cross Platform), Python, Electron, Java, and .NET.
 
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvements)
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
@@ -102,6 +111,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
   > Technical tutorials or blogs with code about Dart & Flutter, Firebase, Firebase extensions, Software development, open source and web technologies
+
+- [LambdaTest](https://www.lambdatest.com/lambdatest-write-for-us) - $200 per article
+  > Write about web automation testing, mobile app testing, CI/CD and DevOps, responsive testing, real time testing, cross browser testing, web development and CSS, thought leadership.
 
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
   > Technical tutorials with code. Not limited to LoginRadius products.
