@@ -69,9 +69,6 @@ A list of companies that have paid Developer Community Writer Programs.
   
 - [Content Turbine](https://www.contentturbine.com/freelance) - $150+ per piece
   > Technical content agency. How-to articles, developer guides, and product use cases are among the specialties.
-
-- [Couchbase](https://www.couchbase.com/community/community-writers-program) - $200 per piece
-  > Content area experts can submit tutorials and blog content.
   
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
