@@ -244,16 +244,16 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Twilio](https://www.twilio.com/voices) - $650 per piece
   > Technical tutorials that focuses on encouraging developers to build the future of communications.
 
-- [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece
+- [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece [September 2023 Update: redirects to blog, no guest author program]
   > Technical articles/tutorials related to TypingDNA.
 
-- [Vonage](https://learn.vonage.com/spotlight/) - $500 per piece
+- [Vonage](https://learn.vonage.com/spotlight/) - $500 per piece [September 2023 Update: not accepting new applications]
   > Technical tutorials and general pieces on programming
 
 - [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $600 per piece
   > most topic take a look on Vultr document
 
-- [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece
+- [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece [September 2023 Update: not accepting new applications]
   > Articles & tutorials with code covering uses of and projects built with Webiny. You could include things like Gatsby, Next.js, React, Vue, Svelte, GraphQL, Jamstack, Open Source, and Serverless. Join our community to pick from a list of articles we're looking for, or pitch your own.
 
 - [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
