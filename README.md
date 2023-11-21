@@ -79,9 +79,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Dockship](https://dockship.io/articles) - $20
   > Machine Learning and Data Science. You need to be signed in to be able to create content.
 
-- [Dolby.io](https://go.dolby.io/community-writing) - $100-$500 per piece
-  > Technical content involving use of Dolby.io APIs and/or SDKs.
-
 - [Draft.dev](https://draft.dev/write) - Pays $315-$578 per piece
   > Technical content agency that works with many clients. Writers who are accepted will get an email every week and access to a writer portal with dozens of topics they can choose from.
 
