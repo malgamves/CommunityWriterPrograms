@@ -43,6 +43,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvements)
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
 
+- [Bugfender](https://bugfender.com/blog/write-for-us/) - Up to $500 per article
+  > Mobile development, Frontend development, and any other dev focused content. Tutorials, guides, and tech articles.
+
 - [Chainstack Developer Hub](https://github.com/chainstack/developer-hub-content) - $200
   > Web3 technical content with code. Tutorials, guides, and expository content.
   
