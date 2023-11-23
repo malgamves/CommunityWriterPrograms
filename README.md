@@ -46,6 +46,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Bejamas](https://bejamas.io/paid-writing-program/) - $250+ per article
   > We welcome authors with real-world experience in modern web technologies. On our [blog](https://bejamas.io/blog/), we accept tutorials and practical guides, while our [discovery](https://bejamas.io/discovery/) section features overviews.
 
+- [Bugfender](https://bugfender.com/blog/write-for-us/) - Up to $500 per article
+  > Mobile development, Frontend development, and any other dev focused content. Tutorials, guides, and tech articles.
+
 - [Chainstack Developer Hub](https://github.com/chainstack/developer-hub-content) - $200
   > Web3 technical content with code. Tutorials, guides, and expository content.
   
@@ -78,9 +81,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Dockship](https://dockship.io/articles) - $20
   > Machine Learning and Data Science. You need to be signed in to be able to create content.
-
-- [Dolby.io](https://go.dolby.io/community-writing) - $100-$500 per piece
-  > Technical content involving use of Dolby.io APIs and/or SDKs.
 
 - [Draft.dev](https://draft.dev/write) - Pays $315-$578 per piece
   > Technical content agency that works with many clients. Writers who are accepted will get an email every week and access to a writer portal with dozens of topics they can choose from.
