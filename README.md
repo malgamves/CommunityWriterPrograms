@@ -7,7 +7,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
   > Technical content and tutorials related to the APIs in their catalogue.
 
-- [Adeva](https://adevait.com/write-for-us) - $200+ per article
+- [Adeva](https://adevait.com/write-for-us) - $200+ per article [September 2023 Update: No available topics]
   > Technical guides, thought leadership content and resources for Engineering Managers.
 
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
@@ -37,7 +37,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Argot](https://www.argot.dev/writers) - Up to $600 per article
   > Frontend development, backend development, data science, and DevOps. 
 
-- [ Auth0's](https://auth0.com/apollo-program) - Up to $450 per article
+- [ Auth0's](https://auth0.com/apollo-program) - Up to $450 per article [September 2023 Update: Applications closed at the moment]
   > Write on a broad scope of topics: Identity & Security Mobile (Native & Cross Platform), Python, Electron, Java, and .NET.
 
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvements)
@@ -73,7 +73,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [ContentLab.io](https://contentlab.com/writeforus/) - Up to $500 per piece
   > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
   
-- [Content Turbine](https://www.contentturbine.com/freelance) - $150+ per piece
+- [Content Turbine](https://www.contentturbine.com/freelance) - $150+ per piece [September 2023 Update: Join the waitlist]
   > Technical content agency. How-to articles, developer guides, and product use cases are among the specialties.
   
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - $300-$500 per piece depending on length and content
@@ -103,7 +103,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - $100 per piece, $200 for 2x length and ghostwritten articles (Special articles).
   > Technical content production agency that works with many clients.
   
-- [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece
+- [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece [September 2023 Update: Not accepting new applications]
   > Ruby and Elixir tutorials with code. Pick from a list of possible articles.
 
 - [Hygraph](https://hygraph.com/write-for-hygraph) - Up to $300 per piece
@@ -118,19 +118,19 @@ A list of companies that have paid Developer Community Writer Programs.
 - [LambdaTest](https://www.lambdatest.com/lambdatest-write-for-us) - $200 per article
   > Write about web automation testing, mobile app testing, CI/CD and DevOps, responsive testing, real time testing, cross browser testing, web development and CSS, thought leadership.
 
-- [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
+- [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece [September 2023 Update: broken link]
   > Technical tutorials with code. Not limited to LoginRadius products.
 
-- [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece
+- [Magalix](https://www.magalix.com/the-sac-writers-club) - $200+ per piece [September 2023 Update: Link redirects to: https://www.weave.works/]
   > Technical content and tutorials about DevSecOps, Cloud security, Kubernetes security.
 
 - [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
-  > Technical tutorials on how to use Magic.link
+  > Technical content on web3 content for Magic
 
-- [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
+- [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits [September 2023 Update: no longer accepts contributions]
   > Tutorials and features about consumer apps and software products.
 
-- [Mattermost](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/community-content-program) - Up to $500 per article
+- [Mattermost](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/community-content-program) - Up to $500 per article [September 2023 Update: Submissions are currently closed and the application form is disabled]
   > Beginner to intermediate technical content including introductions and guides for useful libraries, programming environments, languages, and tech stacks.
 
 - [MSSQLTips](https://www.mssqltips.com/contribute/) - $160 per tip
@@ -151,10 +151,10 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
-- [Okteto](https://okteto.com/tech-writer/) - $200 per article
+- [Okteto](https://okteto.com/tech-writer/) - $200 per article [September 2023 Update: Page not found]
   > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
 
-- [OneSignal](https://onesignal.com/guest-author-program) - Up to $350 per article
+- [OneSignal](https://onesignal.com/guest-author-program) - Up to $350 per article [September 2023 Update: Broken google form application link]
   > Technical content (blog post, videos) that align with OneSignal's content roadmap.
   
 - [OpenReplay](https://medium.com/stackanatomy/write-for-us-ad11489bd7c3) - Up to $250 per article
@@ -169,7 +169,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
   > Thought leadership and technical articles about PHP.
 
-- [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
+- [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece [September 2023 update: not accepting new applications]
   > Get paid to write articles about cryptocurrencies and web3/blockchain.
 
 - [Refine](https://refine.dev/docs/contributing/) - $100-$150 per article
@@ -181,7 +181,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [ruttl](https://ruttl.com/blog/write-for-us/) - INR 1 (~$0.012) per word
   > Indian writers only. Writers can choose from a list of topics on UI/UX, web design and web development.
 
-- [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
+- [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece [September 2023 Update: not accepting new applications]
   > Technical focused articles and how-to guides. Pick from a list of possible articles.
 
 - [Semaphore](https://semaphoreci.com/resources/write-with-us) - Up to $500 per piece + 50% bonus for high page view count
@@ -247,16 +247,16 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Twilio](https://www.twilio.com/voices) - $650 per piece
   > Technical tutorials that focuses on encouraging developers to build the future of communications.
 
-- [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece
+- [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece [September 2023 Update: redirects to blog, no guest author program]
   > Technical articles/tutorials related to TypingDNA.
 
-- [Vonage](https://learn.vonage.com/spotlight/) - $500 per piece
+- [Vonage](https://learn.vonage.com/spotlight/) - $500 per piece [September 2023 Update: not accepting new applications]
   > Technical tutorials and general pieces on programming
 
 - [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $600 per piece
   > most topic take a look on Vultr document
 
-- [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece
+- [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece [September 2023 Update: not accepting new applications]
   > Articles & tutorials with code covering uses of and projects built with Webiny. You could include things like Gatsby, Next.js, React, Vue, Svelte, GraphQL, Jamstack, Open Source, and Serverless. Join our community to pick from a list of articles we're looking for, or pitch your own.
 
 - [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
