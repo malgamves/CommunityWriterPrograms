@@ -148,6 +148,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
   > Technical tutorials on how to use Magic.link
 
+- [MailSender](https://www.mailersend.com/write-for-us) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on transactional messaging and Mailsender integrations.
+
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
 
