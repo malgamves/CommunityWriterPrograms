@@ -286,8 +286,8 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Vonage](https://learn.vonage.com/spotlight/) - $500 per piece
   > Technical tutorials and general pieces on programming
 
-- [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $600 per piece
-  > most topic take a look on Vultr document
+- [Vultr](https://docs.vultr.com/introduction-to-vultr-creator-program) - Up to $800 per piece
+  > Content on Cloud Native Technologies (K8s, IaC, etc.), Linux, Machine Learning, and more. Sign up on [Vultr Creators Dashboard](https://creators.vultr.community) to get started.
 
 - [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece
   > Articles & tutorials with code covering uses of and projects built with Webiny. You could include things like Gatsby, Next.js, React, Vue, Svelte, GraphQL, Jamstack, Open Source, and Serverless. Join our community to pick from a list of articles we're looking for, or pitch your own.
