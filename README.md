@@ -49,6 +49,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [ Auth0's](https://auth0.com/apollo-program) - Up to $450 per article
   > Write on a broad scope of topics: Identity & Security Mobile (Native & Cross Platform), Python, Electron, Java, and .NET.
 
+- [Authsignal](https://authsignal.notion.site/authsignal/Write-for-Authsignal-b247c9e157054a1bb26cf58a72cec8cd)) - Up to $150 per article
+  > Authsignal is a unqiue drop-in passwordless (MFA) solution that helps customer facing platforms manage risk and fraud. Our writing programme allows contributors to write on a broad range of topics and use-cases touching on security, authentication and fraud mitigation. Artciles just have to incorporate Authsignal's product.
+
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvements)
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
   
