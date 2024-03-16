@@ -31,6 +31,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Ant Media](https://antmedia.io/write-for-us-looking-for-technical-authors/) - $50-$150 per piece
   > Articles on streaming technologies and trends (WebRTC, RTMP Protocol)
 
+- [Apify](https://apify.com/write-for-apify) - $150+ per article
+  > Cover tutorials about web scraping with Python, TypeScript, and JavaScript, browser automation, web RPA, and AI and machine learning in the context of collecting web data.
+
 - [AppSignal](https://blog.appsignal.com/write-for-us) - $300 per article
   > Cover topics in full-stack web development.
 
@@ -93,6 +96,9 @@ A list of companies that have paid Developer Community Writer Programs.
   
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
+
+- [Directus](https://docs.directus.io/blog/guest-author.html) - $200-$500 per article
+  > Cover advanced-level tutorials explaining how to use one or more Directus features.
 
 - [Dockship](https://dockship.io/articles) - $20
   > Machine Learning and Data Science. You need to be signed in to be able to create content.
