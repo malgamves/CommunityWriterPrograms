@@ -169,9 +169,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Nanonet](https://nanonets.com/blog/write-for-us/) - Pay unknown
   > Get paid to write about your favorite machine learning topics.
 
-- [Neptune](https://neptune.ai/write-for-us) - $300-$600 per article.
-  > Technical articles, how-to guides and tutorials on machine learning and data science.
-
 - [Neverinstall](https://blog.neverinstall.com/neverinstall-technical-writer-program) - $100-$250 per article.
   > Neverinstall invites developers to contribute to our knowledge library and develop content for the tech community. As we work on cutting-edge technologies, we call upon enthusiasts and passionate software developers to help us spread awareness through guides, blogs, tutorials, and more.
 
