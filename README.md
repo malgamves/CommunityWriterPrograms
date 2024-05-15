@@ -16,7 +16,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [AIConfig](https://forms.gle/MALE8ju94QWmYWVdA) - $75-$200 per article.
   > Technical content, tutorials, and building demo projects that include AIConfig (open-source project from LastMile AI).
 
-- [Airbyte](https://airbyte.com/write-for-the-community) - $900 per article of about 1500 words.
+- [Airbyte](https://airbyte.com/write-for-the-community) - $300-$500 per article of about 1500 words.
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
 - [Alan AI](https://forms.gle/VJ3gQ2tNWqd3pLq97) - $75-$200 per article.
