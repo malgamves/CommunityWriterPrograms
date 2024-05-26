@@ -13,6 +13,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Agora](https://www.agora.io/en/agora-content-contributor-program/) - $250 per article
   > Technical content and tutorials for the Agora community.
 
+- [AIConfig](https://forms.gle/MALE8ju94QWmYWVdA) - $75-$200 per article.
+  > Technical content, tutorials, and building demo projects that include AIConfig (open-source project from LastMile AI).
+
 - [Airbyte](https://airbyte.com/write-for-the-community) - $900 per article of about 1500 words.
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
 
@@ -22,14 +25,23 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Ambassador Labs](https://www.getambassador.io/write-for-us/) - $300 per article
   > Technical tutorials, guides, opinions and case studies on Kubernetes and open source cloud native technologies.
 
+- [Amezmo](https://www.amezmo.com/write-for-amemzo) - $300 per article
+  > Technical tutorials, guides, opinions and case studies on PHP hosting and general web development tutorials.
+
 - [Ant Media](https://antmedia.io/write-for-us-looking-for-technical-authors/) - $50-$150 per piece
   > Articles on streaming technologies and trends (WebRTC, RTMP Protocol)
+
+- [Apify](https://apify.com/write-for-apify) - $150+ per article
+  > Cover tutorials about web scraping with Python, TypeScript, and JavaScript, browser automation, web RPA, and AI and machine learning in the context of collecting web data.
 
 - [AppSignal](https://blog.appsignal.com/write-for-us) - $300 per article
   > Cover topics in full-stack web development.
 
 - [appypie](https://www.appypie.com/guest-post) - Up to $100 per piece
   > Write blogs on a wide range of topics.
+
+- [Architect](https://www.architect.io/write-for-us/) - $300-$500 per article
+  > Technical tutorials, guides, opinions and case studies on cloud technology and GitOps.
 
 - [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
@@ -42,6 +54,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Baeldung](https://www.baeldung.com/contribution-guidelines) - $40 - $150 (for articles; they accept also mini-articles and improvements)
   > Baeldung is a technical site focused mainly on the Java ecosystem, but also Kotlin, Scala, Linux, and general Computer Science – with a reach of about 10M page views per month. We publish tutorials and how-to articles – with a very practical, code-focused, and to-the-point style.
+  
+- [Betterstack](https://betterstack.com/community/write-for-us/) - $300 per article
+  > High-quality guides on building high-performance and scalable applications, observability, and DevOps
 
 - [Bejamas](https://bejamas.io/paid-writing-program/) - $250+ per article
   > We welcome authors with real-world experience in modern web technologies. On our [blog](https://bejamas.io/blog/), we accept tutorials and practical guides, while our [discovery](https://bejamas.io/discovery/) section features overviews.
@@ -75,9 +90,15 @@ A list of companies that have paid Developer Community Writer Programs.
   
 - [Content Turbine](https://www.contentturbine.com/freelance) - $150+ per piece
   > Technical content agency. How-to articles, developer guides, and product use cases are among the specialties.
+
+- [Corellium](https://www.corellium.com/contributor-program) - $500-$1500 per article
+  > Technical tutorials, guides, opinions and case studies on mobile application security.
   
 - [Dev Spotlight](https://www.devspotlight.com/jobs/) - $300-$500 per piece depending on length and content
   > Technical content production agency that works with many clients.
+
+- [Directus](https://docs.directus.io/blog/guest-author.html) - $200-$500 per article
+  > Cover advanced-level tutorials explaining how to use one or more Directus features.
 
 - [Dockship](https://dockship.io/articles) - $20
   > Machine Learning and Data Science. You need to be signed in to be able to create content.
@@ -88,8 +109,14 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Egghead](https://egghead.io/write-for-egghead) - Pay unknown
   > Intermediate to advanced articles covering topics on web development.
 
+- [Every Developer Content Agency](https://everydeveloper.com/join/) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on software development.
+
 - [Fauna](https://github.com/fauna/write-with-fauna) - Up to $700 per piece
   > Content focused on technical education around serverless development and FaunaDB.
+
+- [Giskard](https://www.giskard.ai/write-for-the-community) - $300-$400 per article
+  > Technical tutorials, guides, opinions and case studies on machine learning and AI.
 
 - [Hashnode Web3 Blog](https://web3.hashnode.com/contribute-to-the-web3-blog) - $250-$350 per article
   > Technical content and tutorials related to Web3.
@@ -112,8 +139,14 @@ A list of companies that have paid Developer Community Writer Programs.
 - [In Plain English](https://plainenglish.io/blog/how-to-write-for-in-plain-english) - From $100 per piece and more
   > Technical tutorials or blogs with code about Javascript, Python and web technologies
 
+- [IOD Content Agency](https://iamondemand.com/iod-talent-network/) - $300-$400 per article
+  > Technical tutorials, guides, opinions and case studies on DevOps and software development.
+
 - [Invertase](https://invertase.io/authors-program) - Up to $250 per piece and up to $100 voucher for author of the month
   > Technical tutorials or blogs with code about Dart & Flutter, Firebase, Firebase extensions, Software development, open source and web technologies
+
+- [Kestra](https://kestra.io/write-for-us) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on data orchestration and workflow optimization.
 
 - [LambdaTest](https://www.lambdatest.com/lambdatest-write-for-us) - $200 per article
   > Write about web automation testing, mobile app testing, CI/CD and DevOps, responsive testing, real time testing, cross browser testing, web development and CSS, thought leadership.
@@ -128,22 +161,25 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials on how to use Magic.link
 
 - [MagicPod](https://frost-act-be2.notion.site/MagicPod-Writers-Program-ea85c41d617943559a351f85c3add632) - Up to $200 per piece
-> Articles on various software testing topics, from Web Automation Testing, Mobile App Testing, Testing Strategies to Thought Leadership, as well as Cross Browser Testing
+  > Articles on various software testing topics, from Web Automation Testing, Mobile App Testing, Testing Strategies to Thought Leadership, as well as Cross Browser Testing
+
+- [MailSender](https://www.mailersend.com/write-for-us) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on transactional messaging and Mailsender integrations.
 
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
 
 - [Mattermost](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/community-content-program) - Up to $500 per article
   > Beginner to intermediate technical content including introductions and guides for useful libraries, programming environments, languages, and tech stacks.
+  
+- [MetalBear](https://metalbear.co/writers-program/) - Up to $300 per article
+  > Technical articles, guides, and tutorials on cloud software development, DevOps, Developer Experience, Platform Engineering, backend engineering.
 
 - [MSSQLTips](https://www.mssqltips.com/contribute/) - $160 per tip
   > Get paid to write about SQL Server and related technologies.
 
 - [Nanonet](https://nanonets.com/blog/write-for-us/) - Pay unknown
   > Get paid to write about your favorite machine learning topics.
-
-- [Neptune](https://neptune.ai/write-for-us) - $300-$600 per article.
-  > Technical articles, how-to guides and tutorials on machine learning and data science.
 
 - [Neverinstall](https://blog.neverinstall.com/neverinstall-technical-writer-program) - $100-$250 per article.
   > Neverinstall invites developers to contribute to our knowledge library and develop content for the tech community. As we work on cutting-edge technologies, we call upon enthusiasts and passionate software developers to help us spread awareness through guides, blogs, tutorials, and more.
@@ -187,6 +223,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Sanity.io](https://www.sanity.io/guest-authorship) - Up to $250 per piece
   > Technical focused articles and how-to guides. Pick from a list of possible articles.
 
+- [SaturnCloud](https://saturncloud.io/write-for-us/) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on Python and data science.
+
 - [Semaphore](https://semaphoreci.com/resources/write-with-us) - Up to $500 per piece + 50% bonus for high page view count
   > Technical articles about news, tools, libraries, CI/CD, development and culture
 
@@ -214,6 +253,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Soshace](https://blog.soshace.com/write-for-us/) - $100 per piece
   > Technical tutorials with code. Pick from a list of possible articles.
 
+- [Sourcegraph](https://sourcegraph.com/community) - $250-500 per piece
+  > Technical posts about AI code assistants.
+
 - [SpinupWP](https://spinupwp.com/writers-program/) - $500-$1,000 per piece
   > Technical articles on systems administration, caching, WordPress hosting, DevOps, site deployment and other server & WordPress-related topics. New articles, update existing articles or video tutorials/walkthroughs.
 
@@ -238,6 +280,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Tech Beacon](https://techbeacon.com/write) - $400 per piece
   > Broad coverage of development, DevOps, QA and security.
 
+- [TestSigma](https://testsigma.com/testsigma-writers-program) - $300+ per article
+  > Technical tutorials, guides, opinions and case studies on testing automation.
+
 - [TheBotForge](https://www.thebotforge.io/guest-authors/) - up to £200 per article
   > Technical tutorials, guides and case studies on conversational AI and NLP/NLP/Machine Learning.
 
@@ -256,8 +301,8 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Vonage](https://learn.vonage.com/spotlight/) - $500 per piece
   > Technical tutorials and general pieces on programming
 
-- [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines) - Up to $600 per piece
-  > most topic take a look on Vultr document
+- [Vultr](https://docs.vultr.com/introduction-to-vultr-creator-program) - Up to $800 per piece
+  > Content on Cloud Native Technologies (K8s, IaC, etc.), Linux, Machine Learning, and more. Sign up on [Vultr Creators Dashboard](https://creators.vultr.community) to get started.
 
 - [Webiny](https://www.webiny.com/docs/write-with-webiny/write-with-webiny) - up to $300 per piece
   > Articles & tutorials with code covering uses of and projects built with Webiny. You could include things like Gatsby, Next.js, React, Vue, Svelte, GraphQL, Jamstack, Open Source, and Serverless. Join our community to pick from a list of articles we're looking for, or pitch your own.
