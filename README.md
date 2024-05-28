@@ -160,6 +160,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Magic](https://magic-fortmatic.typeform.com/to/Wgzsocor) - Up to $300 per piece
   > Technical tutorials on how to use Magic.link
 
+- [MagicPod](https://frost-act-be2.notion.site/MagicPod-Writers-Program-ea85c41d617943559a351f85c3add632) - Up to $200 per piece
+  > Articles on various software testing topics, from Web Automation Testing, Mobile App Testing, Testing Strategies to Thought Leadership, as well as Cross Browser Testing
+
 - [MailSender](https://www.mailersend.com/write-for-us) - $300+ per article
   > Technical tutorials, guides, opinions and case studies on transactional messaging and Mailsender integrations.
 
