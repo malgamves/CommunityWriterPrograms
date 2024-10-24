@@ -28,9 +28,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Amezmo](https://www.amezmo.com/write-for-amemzo) - $300 per article
   > Technical tutorials, guides, opinions and case studies on PHP hosting and general web development tutorials.
 
-- [Ant Media](https://antmedia.io/write-for-us-looking-for-technical-authors/) - $50-$150 per piece
-  > Articles on streaming technologies and trends (WebRTC, RTMP Protocol)
-
 - [Apify](https://apify.com/write-for-apify) - $150+ per article
   > Cover tutorials about web scraping with Python, TypeScript, and JavaScript, browser automation, web RPA, and AI and machine learning in the context of collecting web data.
 
