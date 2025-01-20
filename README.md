@@ -187,9 +187,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
-- [Okteto](https://okteto.com/tech-writer/) - $200 per article
-  > Technical content and tutorials about Okteto, Kubernetes, and Cloud-Native Applications.
-
 - [OneSignal](https://onesignal.com/guest-author-program) - Up to $350 per article
   > Technical content (blog post, videos) that align with OneSignal's content roadmap.
   
