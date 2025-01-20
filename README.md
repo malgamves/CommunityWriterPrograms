@@ -184,6 +184,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Nimblebox.ai](https://nimblebox.ai/technical-writer-program) - $100 per article.
   > The NimbleBox Technical Writer Program is a way for you to support the future of MLOps by writing technical articles.
 
+- [NXNE](https://docs.google.com/forms/d/e/1FAIpQLSddLlIBV5A5_U9WO6ZIvkC9tNGQxwrcJJoVIJUrOoIM3CquuQ/viewform) - $50 - 600 per article.
+  > Technical agency with different formats including books.
+  
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
