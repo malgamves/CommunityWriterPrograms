@@ -40,9 +40,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [appypie](https://www.appypie.com/guest-post) - Up to $100 per piece
   > Write blogs on a wide range of topics.
 
-- [Architect](https://www.architect.io/write-for-us/) - $300-$500 per article
-  > Technical tutorials, guides, opinions and case studies on cloud technology and GitOps.
-
 - [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
 
