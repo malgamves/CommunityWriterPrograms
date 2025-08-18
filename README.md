@@ -43,9 +43,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Arctype](https://arctype.com/blog/contribute/) - $100+ per article
   > Technical guides, case studies, and thought leadership on SQL and Databases.
 
-- [Argot](https://www.argot.dev/writers) - Up to $600 per article
-  > Frontend development, backend development, data science, and DevOps. 
-
 - [ Auth0's](https://auth0.com/apollo-program) - Up to $450 per article
   > Write on a broad scope of topics: Identity & Security Mobile (Native & Cross Platform), Python, Electron, Java, and .NET.
 
@@ -81,9 +78,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [CodingSight](https://codingsight.com) (Email [marketing@devart.com](mailto:marketing@devart.com)) - $100-$250 per piece
   > Technical articles on SQL Server, PostgreSQL, .NET, Oracle, and Azure.
-
-- [ContentLab.io](https://contentlab.com/writeforus/) - Up to $500 per piece
-  > Articles on the Cloud, DevOps, Containers, AI/ML, Security, Web, and Gaming spaces.
   
 - [Content Turbine](https://www.contentturbine.com/freelance) - $150+ per piece
   > Technical content agency. How-to articles, developer guides, and product use cases are among the specialties.
