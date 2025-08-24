@@ -16,6 +16,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Amezmo](https://www.amezmo.com/write-for-amemzo) - $300 per article
   > Technical tutorials, guides, opinions and case studies on PHP hosting and general web development tutorials.
 
+- [AppSignal](https://blog.appsignal.com/write-for-us) - $300 per article
+  > Cover topics in full-stack web development.
+  
 - [Bugfender](https://bugfender.com/blog/write-for-us/) - Up to $500 per article
   > Mobile development, Frontend development, and any other dev focused content. Tutorials, guides, and tech articles.
   
@@ -39,6 +42,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Corellium](https://www.corellium.com/contributor-program) - $500-$1500 per article
   > Technical tutorials, guides, opinions and case studies on mobile application security.
+
+- [Draft.dev](https://draft.dev/write) - Pays $315-$578 per piece
+  > Technical content agency that works with many clients. Writers who are accepted will get an email every week and access to a writer portal with dozens of topics they can choose from.
 
 - [Egghead](https://egghead.io/write-for-egghead) - Pay unknown
   > Intermediate to advanced articles covering topics on web development.
@@ -141,6 +147,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [TestSigma](https://testsigma.com/testsigma-writers-program) - $300+ per article
   > Technical tutorials, guides, opinions and case studies on testing automation.
+
+- [TheBotForge](https://www.thebotforge.io/guest-authors/) - up to £200 per article
+  > Technical tutorials, guides and case studies on conversational AI and NLP/NLP/Machine Learning.
 
 - [Topcoder](https://www.topcoder.com/thrive/articles/Submitting%20a%20Thrive%20Article) - $75 per piece
   > Tutorials, workshops and articles are accepted. Get paid to write about Competitive Programming, Data Science, Design, Development, QA and/or Gig Work.
