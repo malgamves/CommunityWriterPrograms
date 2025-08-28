@@ -91,6 +91,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Nanonet](https://nanonets.com/blog/write-for-us/) - Pay unknown
   > Get paid to write about your favorite machine learning topics.
 
+- [Neverinstall](https://blog.neverinstall.com/neverinstall-technical-writer-program) - $100-$250 per article.
+  > Neverinstall invites developers to contribute to our knowledge library and develop content for the tech community. As we work on cutting-edge technologies, we call upon enthusiasts and passionate software developers to help us spread awareness through guides, blogs, tutorials, and more.
+  
 - [Okta](https://developer.okta.com/blog) - Paid through Toptal based on your hourly rate
   > Technical tutorials and demos using Okta's products.
 
@@ -99,6 +102,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
   > Get paid to write articles about cryptocurrencies and web3/blockchain.
+
+- [ruttl](https://ruttl.com/blog/write-for-us/) - INR 1 (~$0.012) per word
+  > Indian writers only. Writers can choose from a list of topics on UI/UX, web design and web development
 
 - [SaturnCloud](https://saturncloud.io/write-for-us/) - $300+ per article
   > Technical tutorials, guides, opinions and case studies on Python and data science.
@@ -156,6 +162,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Up to $500 per piece
   > In-depth tutorials on technical and business topics.
+
+- [Twilio](https://www.twilio.com/en-us/voices) - $650 per piece
+  > Technical tutorials that focuses on encouraging developers to build the future of communications.
 
 - [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece
   > Technical articles/tutorials related to TypingDNA.
