@@ -142,7 +142,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [LambdaTest](https://www.lambdatest.com/lambdatest-write-for-us) - $200 per article
   > Write about web automation testing, mobile app testing, CI/CD and DevOps, responsive testing, real time testing, cross browser testing, web development and CSS, thought leadership.
 
-- [Literally](https://www.literally.dev/) - $250-$800 per article
+- [Literally](https://literally.homerun.co/technical-writer/en)- $250-$800 per article
   > Developer marketing agency that works with many clients. Writers who are accepted get an email when there's a topic that matches their field of interest and financial expectations.
 
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
