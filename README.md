@@ -4,8 +4,6 @@ Paid writer programs usually have just enough of an incentive for people to get 
 
 A list of companies that have paid Developer Community Writer Programs.
 
-- [Adeva](https://adevait.com/write-for-us) - $200+ per article
-  > Technical guides, thought leadership content and resources for Engineering Managers.
 
 - [AIConfig](https://forms.gle/MALE8ju94QWmYWVdA) - $75-$200 per article.
   > Technical content, tutorials, and building demo projects that include AIConfig (open-source project from LastMile AI).
