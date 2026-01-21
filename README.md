@@ -82,6 +82,9 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
   > Tutorials and features about consumer apps and software products.
+
+- [Mem0](https://mem0ai.notion.site/2edf22c70c9080f7b366d6481e2a8869?pvs=105) - Up to $300 based on experience
+  > Technical tutorials and deep dives into Mem0 and AI memory platforms.
   
 - [MetalBear](https://metalbear.co/writers-program/) - Up to $300 per article
   > Technical articles, guides, and tutorials on cloud software development, DevOps, Developer Experience, Platform Engineering, backend engineering.
