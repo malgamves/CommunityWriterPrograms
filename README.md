@@ -185,6 +185,8 @@ A list of companies that have paid Developer Community Writer Programs.
 - [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
   > Tutorials on drupal.
 
+- [Buddy](https://buddy.works/share-your-knowledge) - Pay unknown + Gift pack
+  > Web development, Testing, Automation, Best practices, Buddy CI/CD
 ---
 ## Resources with similar lists
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
