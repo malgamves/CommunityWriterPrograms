@@ -4,7 +4,7 @@ Paid writer programs usually have just enough of an incentive for people to get 
 
 A list of companies that have paid Developer Community Writer Programs.
 
-> **Status key:** ✅ Active &nbsp;|&nbsp; ⏸️ Paused/Closed &nbsp;|&nbsp; ❓ Unknown/Unverified
+> **Status key:** ✅ Active &nbsp;|&nbsp; ⏸️ Paused/Closed &nbsp;|&nbsp; 
 >
 > *Last audited: July 2026*
 
