@@ -128,71 +128,20 @@ A list of companies that have paid Developer Community Writer Programs.
 - [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
   > Tutorials on drupal. Rates are $50 for a quick tutorial, $75 for a general tutorial and $175 for a long tutorial.
 
----
 
-## ⏸️ Paused / Closed
-
-- [CircleCI](https://circleci.com/blog/) - $350-$600 per piece
-  > The guest writer program page has been removed and now redirects to the blog.
-
-- [Content Turbine](https://www.contentturbine.com/) - $150+ per piece
-  > The agency is still operating but the freelance sign-up page returns a 404 and there is no writer recruitment page on the site.
-
-- Hashnode Web3 Blog - $250-$350 per article
-  > The Web3 blog no longer loads; the contribute page returns a server error.
-
-- Literally - $250-$800 per article
-  > The technical writer listing now reads "this job opening is no longer available".
-
-- [MetalBear](https://metalbear.com/) - Up to $300 per article
-  > MetalBear moved to metalbear.com and the writers program page no longer exists on either domain.
-
-- [Okta](https://developer.okta.com/blog) - Previously paid through Toptal based on your hourly rate
-  > There is no longer a contributor programme page, and recent posts are all by Okta staff.
-
-- [ruttl](https://www.ruttl.com/) - INR 1 (~$0.012) per word
-  > The write-for-us page now returns "Blog not found".
-
-- [Semaphore](https://semaphore.io/) - Up to $500 per piece
-  > The write-with-us page has been removed and now redirects to the blog.
+## ⏸️ Paused 
 
 - [Solace](https://solace.com/scholars/) - $300 per piece
   > The Scholars page states "Submissions Paused – Program Under Construction".
 
-- Soshace - $100 per piece
-  > The write-for-us page returns a 404.
-
-- [StackAbuse](https://stackabuse.com) - $100 - $300+ per article.
-  > The site has pivoted towards developer tools and courses, and the linked "work with us" section no longer exists, though external authors still appear on the blog.
-
 - [StackOverflow](https://stackoverflow.blog/2020/01/27/blog-contributor-guidelines/?cb=1) - $500 per piece
   > The contributor guidelines now carry an editor's note: not currently accepting unsolicited pitches.
-
-- [Strapi](https://strapi.io/community) - Up to $200 per piece
-  > The write-for-the-community page now redirects to a general community page with no paid writing programme.
 
 - [TestMu AI (formerly LambdaTest)](https://www.testmuai.com/lambdatest-write-for-us/) - No longer cash-paid
   > The guest blogger program is still open, but rewards are now listed as swag, vouchers, giveaways and product access rather than a per-article fee.
 
-- [The Bot Forge](https://thebotforge.io/) - up to £200 per article
-  > The guest authors page has been removed and now redirects to the about page.
-
-- [Topcoder](https://www.topcoder.com/thrive) - $75 per piece
-  > The Thrive submission page no longer loads, and the most recent Thrive articles date from 2022.
-
 - [Twilio](https://www.twilio.com/en-us/voices) - $650 per piece
   > The page states they are not accepting new applications for the Developer Voices program at this time, and to check back for updates.
-
-- [TypingDNA](https://www.typingdna.com/) - Up to $500 per piece
-  > The guest author program page has been removed and now redirects to the blog.
-
-- [Vonage](https://developer.vonage.com/en/blog) - $500 per piece
-  > The Spotlight programme page has been removed and now redirects to the developer blog.
-
-- [Webiny](https://www.webiny.com/) - up to $300 per piece
-  > The write-with-webiny docs page returns a server error and is no longer linked from the site.
-
-
 
 
 ## Resources with similar lists
