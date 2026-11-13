@@ -20,9 +20,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [AppSignal](https://blog.appsignal.com/write-for-us) - $300 per article
   > Cover topics in full-stack web development.
 
-- [Bugfender](https://bugfender.com/blog/write-for-us/) - Up to $500 per article
-  > Mobile development, Frontend development, and any other dev focused content. Tutorials, guides, and tech articles.
-
 - [Civo](https://www.civo.com/write-for-us) - $200-$500 per piece
   > Write a tutorial or how-to guide at Civo and get paid.
 
@@ -62,6 +59,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [LoginRadius](https://www.loginradius.com/blog/guest-blog) - Previously up to $200 per piece
   > The write-for-us page is live and accepting applications, but it no longer mentions payment anywhere.
 
+- [LWN.net](https://lwn.net/op/AuthorGuide.lwn) - $400 per article for new authors
+  > News and feature articles on Linux and free software, including kernel coverage. Pitch authors@lwn.net before writing. LWN does not publish text from large language models.
+
 - [Magic](https://form.typeform.com/to/Wgzsocor) - Up to $300 per piece
   > Technical tutorials on how to use Magic.link
 
@@ -89,9 +89,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
   > Thought leadership and technical articles about PHP. Note that the page now states they do not accept guest bloggers for the online publication; pitch article or book concepts for the monthly magazine instead.
 
-- [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
-  > Get paid to write articles about cryptocurrencies and web3/blockchain.
-
 - [SaturnCloud](https://saturncloud.io/write-for-us/) - $300+ per article
   > Technical tutorials, guides, opinions and case studies on Python and data science.
 
@@ -100,9 +97,6 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Simple Talk](https://www.red-gate.com/simple-talk/write-for-us/) - $350 per article
   > Technical articles focused on SQL Server, MySQL, and Postgres. Redgate confirms it pays contributors, though the rate is no longer published on the site.
-
-- [SitePoint](https://form.typeform.com/to/DMmYfn) - $250 per article
-  > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
 
 - [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/) - $200 to $250 per article
   > Technical focused articles. No limitation on topics.
@@ -125,9 +119,6 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Vultr](https://docs.vultr.com/platform/vultr-creator-program) - Up to $800 per piece
   > Content on Cloud Native Technologies (K8s, IaC, etc.), Linux, Machine Learning, and more. Sign up on [Vultr Creators Dashboard](https://creators.vultrdevrel.com/) to get started.
 
-- [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
-  > Tutorials on drupal. Rates are $50 for a quick tutorial, $75 for a general tutorial and $175 for a long tutorial.
-
 
 ## ⏸️ Paused 
 
@@ -142,6 +133,22 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Twilio](https://www.twilio.com/en-us/voices) - $650 per piece
   > The page states they are not accepting new applications for the Developer Voices program at this time, and to check back for updates.
+
+- [QuickNode](https://quicknode.notion.site/quicknode/QuickNode-Authorship-Program-d808a87ee50b48c9a16ed19b13e09115) - $350 per piece
+  > Get paid to write articles about cryptocurrencies and web3/blockchain.
+  > Checked November 2026: "At this time, we are not accepting new applications."
+
+- [Bugfender](https://bugfender.com/blog/write-for-us/) - Up to $500 per article
+  > Mobile development, Frontend development, and any other dev focused content. Tutorials, guides, and tech articles.
+  > Checked November 2026: "Positions filled: currently, we are not looking for new writers" (the page still accepts applications for future consideration).
+
+- [WebWash](https://www.webwash.net/write-for-us/) - $50-$175 per piece
+  > Tutorials on drupal. Rates are $50 for a quick tutorial, $75 for a general tutorial and $175 for a long tutorial.
+  > Checked November 2026: "We're no longer accepting writers."
+
+- [SitePoint](https://www.sitepoint.com/write-for-us/) - Pay not stated
+  > Broad coverage of development, design and the business ideas behind them. The JavaScript and PHP channels have the best traffic.
+  > Checked November 2026: submitting is now "an exclusive perk for SitePoint Premium subscribers" (a paid subscription), and the page no longer links the application form or mentions pay.
 
 
 ## Resources with similar lists
